@@ -23,7 +23,7 @@ function Work(){
             <section className="work-written-section">
                 <p className="work-subheader">Elements</p>
                 <p>
-                Typography: use of font for “BangBangCon” as the title. The font is round with an outline. It convinces the audience to read the title first.<br></br>
+                Typography: use of font for “BangBangCon” as the title. The font is round with an outline making it stick out. It convinces the audience to read the title first.<br></br>
                 Color: Overall, the design uses a soft pastel tone colour. This gives a cosy mood to the image giving the audience a comfortable feeling.<br></br>
                 Image: used inside the ticket figure. It represents the theme/mood of each concert<br></br>
                 </p>
