@@ -1,4 +1,5 @@
-
+.work-container{
+}
 
 .work-button{
     border: 2px solid #31304D;
@@ -10,7 +11,7 @@
     max-width: 500px;
 }
 @media only screen and (max-width: 600px) {
-    .module-img{
+    .module-img, .work-container{
         width: 350px;
     }
   }
