@@ -4,6 +4,7 @@ import './App.css'
 
 
 document.body.style.backgroundColor = "#161A30";
+document.title = 'Hanbyul Kim';
 function App() {
   return (
   <div className = "App">
