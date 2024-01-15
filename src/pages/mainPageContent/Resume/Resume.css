@@ -1,0 +1,25 @@
+.resume-header{
+    color: #F0ECE5;
+    margin-bottom: 3vh;
+}
+
+.resume-download{
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    color: #F0ECE5;
+    text-decoration: none;
+    background-color: #31304D;
+    padding: 2vh 2vw;
+    border-radius: 6px;
+}
+
+.resume-download:hover{
+    color: #31304D;
+    background-color: #B6BBC4;
+}
+
+.resume-download p{
+    margin: 0;
+    margin-left: 1vw;
+}

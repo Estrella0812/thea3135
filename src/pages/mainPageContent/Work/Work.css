@@ -1,0 +1,32 @@
+
+
+.work-button{
+    border: 2px solid #31304D;
+    margin: 1vh 0;
+}
+
+.module-img{
+    width: 100%;
+}
+@media only screen and (max-width: 600px) {
+    .module-img{
+        width: 350px;
+    }
+  }
+
+.work-container a{
+    color: #B6BBC4;
+}
+
+.work-written-section{
+    padding-top: 20px;
+    text-align: left;
+}
+
+.work-container p{
+    color: #F0ECE5;
+}
+
+.work-subheader{
+    font-weight: bold;
+}

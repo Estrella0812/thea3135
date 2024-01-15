@@ -1,0 +1,130 @@
+.parallax{
+    display: flex;
+    justify-content: center;
+}
+
+.parallax-text{
+    background-image: url("../images/text.png");
+}
+
+.parallax-background{
+    background-image: url("../images/background.png");
+}
+
+.parallax-background, .parallax-text{
+    position: absolute;
+
+    min-height: 100%; 
+    min-width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.announcement-container{
+    position: absolute;
+    z-index: 10;
+    top: 0;
+}
+
+.main-component-container{
+    margin-top: 100vh;
+}
+
+nav{
+    top: 0;
+    position:sticky;
+}
+
+.navigationBar{
+  display: flex;
+  justify-content: space-between;
+  top:0;
+  position: sticky;
+  background-color: #161A30;
+  padding: 0 5vw;
+}
+
+button{
+  padding: 3vh 0vw;
+  background-color: #161A30;
+  color: #F0ECE5;
+  width: 100%;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+
+button:hover{
+  background-color: #31304D;
+  color: #F0ECE5;
+}
+
+/* width */
+/* ::-webkit-scrollbar {
+    width: 17px;
+  } */
+  
+  /* Track */
+  /* ::-webkit-scrollbar-track {
+    background: #F0ECE5; 
+  }
+    */
+  /* Handle */
+  /* ::-webkit-scrollbar-thumb {
+    background: #161A30; 
+  } */
+  
+  /* Handle on hover */
+  /* ::-webkit-scrollbar-thumb:hover {
+    background: #31304D; 
+  } */
+  
+  /* Track */
+  /* ::-webkit-scrollbar-track {
+    background: #F0ECE5; 
+  } */
+   
+  /* Handle */
+  /* ::-webkit-scrollbar-thumb {
+    background: #161A30; 
+  } */
+  
+  /* Handle on hover */
+  /* ::-webkit-scrollbar-thumb:hover {
+    background: #31304D; 
+  } */
+
+  /* google */
+.google-header{
+  color: #F0ECE5;
+  padding: 0 0;
+  margin-bottom: 8px;
+}
+
+.google-Drive a{
+  width: 350px;
+  text-decoration: none;
+  color: #161A30;
+  font-weight: bold;
+  padding: 2vh 0vw;
+  background-color: #B6BBC4;
+  margin: 2vh 0vw;
+  border-radius: 6px;
+}
+
+.google-Drive a:hover{
+  background-color: #F0ECE5;
+  color: #161A30;
+}
+
+.botnav{
+  padding: 2vh 0;
+  background-color: #31304D;
+  color: #B6BBC4;
+}
+
+.botnav p{
+    margin: 0;
+}

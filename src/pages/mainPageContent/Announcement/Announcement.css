@@ -1,0 +1,15 @@
+
+.announcement{
+    justify-content: center;
+    align-items: center;
+    padding: 1.5vh 0;
+    background-color: #B54C4C;
+    color: #F0ECE5;
+}
+
+.close-icon{
+    position: absolute;
+    top: 50%;
+    right: 1%;
+    transform: translate(-1%, -50%);
+}

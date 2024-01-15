@@ -1,0 +1,62 @@
+.gmail-container{
+    width: 350px;
+}
+
+.gmail-header{
+    color: #F0ECE5;
+    font-weight: bold;
+}
+
+.gmail-state{
+    text-align: center;
+    padding: 1.5vh;
+    background-color: #B54C4C;
+    color: #F0ECE5;
+}
+
+.gmail-close-icon{
+    display: inline-block;
+    position: absolute;
+}
+
+.gmail-form{
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.gmail-label{
+    display:flex;
+    color: #F0ECE5;
+    font-weight: bold;
+    float: left;
+}
+
+.gmail-input{
+    background-color: #31304D;
+    color: #F0ECE5;
+    padding:1vh 0.5vw;
+    margin-bottom: 2vh;
+    border-radius: 6px;
+    border: none;
+    width:100%;
+}
+
+.gmail-input:focus{
+    outline: none;
+}
+
+.gmail-button{
+    font-weight: bold;
+    color: #31304D;
+    background-color: #F0ECE5;
+    border-radius: 6px;
+    border: none;
+    width:100%;
+    display: block;
+    margin-bottom: 10vh;
+}
+
+.gmail-button:hover{
+    background-color: #B6BBC4;
+}

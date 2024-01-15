@@ -1,0 +1,5180 @@
+[
+  {
+   "kind": "calendar#event",
+   "etag": "\"3006837039680000\"",
+   "id": "c8o62p1lc8rm2b9k6lijib9k6pgj4b9p6gsjab9h6li30o9o6lhm2ob5cc",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhvNjJwMWxjOHJtMmI5azZsaWppYjlrNnBnajRiOXA2Z3NqYWI5aDZsaTMwbzlvNmxobTJvYjVjYyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2017-08-22T16:15:19.000Z",
+   "updated": "2017-08-22T16:15:19.840Z",
+   "summary": "School registration ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-08-29T10:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2017-08-29T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c8o62p1lc8rm2b9k6lijib9k6pgj4b9p6gsjab9h6li30o9o6lhm2ob5cc@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3006837216734000\"",
+   "id": "6hj3gcpnccsjab9nc5ij4b9k69hj2b9p68s36b9hcopj8ob66tgjaopgc8",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmhqM2djcG5jY3NqYWI5bmM1aWo0YjlrNjloajJiOXA2OHMzNmI5aGNvcGo4b2I2NnRnamFvcGdjOCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2017-08-22T16:16:48.000Z",
+   "updated": "2017-08-22T16:16:48.367Z",
+   "summary": "R.J WIN program",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-08-30T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2017-08-30T12:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6hj3gcpnccsjab9nc5ij4b9k69hj2b9p68s36b9hcopj8ob66tgjaopgc8@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3007876622088000\"",
+   "id": "60p3icj5c4s32b9m6gqj2b9k6hgj8bb1ccqj2bb664o66p9occrj8d3664",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBwM2ljajVjNHMzMmI5bTZncWoyYjlrNmhnajhiYjFjY3FqMmJiNjY0bzY2cDlvY2NyajhkMzY2NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2017-08-22T16:15:20.000Z",
+   "updated": "2017-08-28T16:38:31.044Z",
+   "summary": "R.J WIN program",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-08-29T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2017-08-29T12:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "60p3icj5c4s32b9m6gqj2b9k6hgj8bb1ccqj2bb664o66p9occrj8d3664@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3010999966018000\"",
+   "id": "70o38eb6c4oj4b9pccqj6b9k6gpjcbb26sp6abb460s30dpn6go64c1h6c",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBvMzhlYjZjNG9qNGI5cGNjcWo2YjlrNmdwamNiYjI2c3A2YWJiNDYwczMwZHBuNmdvNjRjMWg2YyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2017-09-15T18:26:22.000Z",
+   "updated": "2017-09-15T18:26:23.009Z",
+   "summary": "B day 예원",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-02-23T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-02-23T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "70o38eb6c4oj4b9pccqj6b9k6gpjcbb26sp6abb460s30dpn6go64c1h6c@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3010999967442000\"",
+   "id": "64o62c1ocosjibb3chi3gb9k70s62bb2c4s38bb6c8q3ccj66gsj2d1gc4",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRvNjJjMW9jb3NqaWJiM2NoaTNnYjlrNzBzNjJiYjJjNHMzOGJiNmM4cTNjY2o2NmdzajJkMWdjNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2017-09-15T18:26:23.000Z",
+   "updated": "2017-09-15T18:26:23.721Z",
+   "summary": "B day 주연",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-12-25T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2017-12-25T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "64o62c1ocosjibb3chi3gb9k70s62bb2c4s38bb6c8q3ccj66gsj2d1gc4@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3010999968744000\"",
+   "id": "6lj3cp31corj6b9i6sojcb9k75j3eb9oc5hj0b9hc4rjec346dh6cc1n6o",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmxqM2NwMzFjb3JqNmI5aTZzb2pjYjlrNzVqM2ViOW9jNWhqMGI5aGM0cmplYzM0NmRoNmNjMW42byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2017-09-15T18:26:24.000Z",
+   "updated": "2017-09-15T18:26:24.372Z",
+   "summary": "B day 도연",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-10-09T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2017-10-09T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6lj3cp31corj6b9i6sojcb9k75j3eb9oc5hj0b9hc4rjec346dh6cc1n6o@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3010999969696000\"",
+   "id": "6sp68or3ccq3ab9l6ksj0b9k74qm6b9p6dh3abb171i6aeb66go36e1o6s",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnNwNjhvcjNjY3EzYWI5bDZrc2owYjlrNzRxbTZiOXA2ZGgzYWJiMTcxaTZhZWI2NmdvMzZlMW82cyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2017-09-15T18:26:24.000Z",
+   "updated": "2017-09-15T18:26:24.848Z",
+   "summary": "B day lily",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-03-19T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2017-03-19T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6sp68or3ccq3ab9l6ksj0b9k74qm6b9p6dh3abb171i6aeb66go36e1o6s@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3025139258402000\"",
+   "id": "6ss3cpb2coom2b9m6tgmab9kccqj6bb1cdijcb9i6hh66p1g6lj6copo6s",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnNzM2NwYjJjb29tMmI5bTZ0Z21hYjlrY2NxajZiYjFjZGlqY2I5aTZoaDY2cDFnNmxqNmNvcG82cyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2017-12-06T14:13:49.000Z",
+   "updated": "2017-12-06T14:13:49.201Z",
+   "summary": "Submitting course",
+   "colorId": "11",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-02-21T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-02-21T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6ss3cpb2coom2b9m6tgmab9kccqj6bb1cdijcb9i6hh66p1g6lj6copo6s@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3029898171822000\"",
+   "id": "74o32p9g74q3cbb464oj4b9k6cr3abb161gmab9g6oo36p3168r3gd9h6o",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRvMzJwOWc3NHEzY2JiNDY0b2o0YjlrNmNyM2FiYjE2MWdtYWI5ZzZvbzM2cDMxNjhyM2dkOWg2byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-01-03T03:11:25.000Z",
+   "updated": "2018-01-03T03:11:25.911Z",
+   "summary": "First time starting V route",
+   "colorId": "7",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2017-12-23T00:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2017-12-23T01:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "74o32p9g74q3cbb464oj4b9k6cr3abb161gmab9g6oo36p3168r3gd9h6o@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3045799382444000\"",
+   "id": "6ko64p9gchi3eb9o70p66b9k60pjab9pclhjcb9n6kq3ccb165hjip9l6g",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmtvNjRwOWdjaGkzZWI5bzcwcDY2YjlrNjBwamFiOXBjbGhqY2I5bjZrcTNjY2IxNjVoamlwOWw2ZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-04-05T03:41:31.000Z",
+   "updated": "2018-04-05T03:41:31.222Z",
+   "summary": "Demian return",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-04-24T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-04-24T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6ko64p9gchi3eb9o70p66b9k60pjab9pclhjcb9n6kq3ccb165hjip9l6g@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3045799448482000\"",
+   "id": "c4o3cd9kc5ij2bb5ckr32b9kccr3ab9ocgrm2bb56gr68cj370r36d9mcg",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRvM2NkOWtjNWlqMmJiNWNrcjMyYjlrY2NyM2FiOW9jZ3JtMmJiNTZncjY4Y2ozNzByMzZkOW1jZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-04-05T03:42:04.000Z",
+   "updated": "2018-04-05T03:42:04.241Z",
+   "summary": "Soccer book library renew",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-04-14T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-04-14T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c4o3cd9kc5ij2bb5ckr32b9kccr3ab9ocgrm2bb56gr68cj370r36d9mcg@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3047770039784000\"",
+   "id": "6csm6p9g71h6abb370p6ab9k6lh6cb9pc5hj0b9kcdgjcc9o6crj4d1h60",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmNzbTZwOWc3MWg2YWJiMzcwcDZhYjlrNmxoNmNiOXBjNWhqMGI5a2NkZ2pjYzlvNmNyajRkMWg2MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-04-16T13:23:39.000Z",
+   "updated": "2018-04-16T13:23:39.892Z",
+   "summary": "수연 생일",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-05-12T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-05-12T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6csm6p9g71h6abb370p6ab9k6lh6cb9pc5hj0b9kcdgjcc9o6crj4d1h60@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3050185067394000\"",
+   "id": "74oj2dhi6pi36bb66so62b9k6opjeb9p70qjcb9m71hjecpj6hgj4db16k",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRvajJkaGk2cGkzNmJiNjZzbzYyYjlrNm9wamViOXA3MHFqY2I5bTcxaGplY3BqNmhnajRkYjE2ayBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-04-30T12:48:53.000Z",
+   "updated": "2018-04-30T12:48:53.697Z",
+   "summary": "Return reportcard form",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-05-02T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-05-02T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "74oj2dhi6pi36bb66so62b9k6opjeb9p70qjcb9m71hjecpj6hgj4db16k@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3062705293230000\"",
+   "id": "6cq3ephj65h6ab9jccojgb9kccpj2bb268p36b9icop64e1p6sq64e1l6o",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmNxM2VwaGo2NWg2YWI5amNjb2pnYjlrY2NwajJiYjI2OHAzNmI5aWNvcDY0ZTFwNnNxNjRlMWw2byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-07-11T23:44:06.000Z",
+   "updated": "2018-07-11T23:44:06.615Z",
+   "summary": "셍리",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-07-10T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-07-10T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6cq3ephj65h6ab9jccojgb9kccpj2bb268p36b9icop64e1p6sq64e1l6o@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3071819605936000\"",
+   "id": "70sm4e31c4pmab9gcdgjgb9k70pj4bb16oqj6b9k64q36e3570sj6cph6k",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBzbTRlMzFjNHBtYWI5Z2NkZ2pnYjlrNzBwajRiYjE2b3FqNmI5azY0cTM2ZTM1NzBzajZjcGg2ayBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-09-02T17:36:42.000Z",
+   "updated": "2018-09-02T17:36:42.968Z",
+   "summary": "생리",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-08-09T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-08-09T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "70sm4e31c4pmab9gcdgjgb9k70pj4bb16oqj6b9k64q36e3570sj6cph6k@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3071819607106000\"",
+   "id": "6dh3ac9m64sjab9ncgsj4b9k6lh68bb270pm6bb3clijep33ckpj2ohm68",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmRoM2FjOW02NHNqYWI5bmNnc2o0YjlrNmxoNjhiYjI3MHBtNmJiM2NsaWplcDMzY2twajJvaG02OCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-09-02T17:36:43.000Z",
+   "updated": "2018-09-02T17:36:43.553Z",
+   "summary": "생리",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-09-02T14:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-09-02T15:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6dh3ac9m64sjab9ncgsj4b9k6lh68bb270pm6bb3clijep33ckpj2ohm68@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3074962285982000\"",
+   "id": "64sjadpk74oj8b9l61ijab9k6crm6b9p70q38b9kcli68phmc4ojgo9g60",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRzamFkcGs3NG9qOGI5bDYxaWphYjlrNmNybTZiOXA3MHEzOGI5a2NsaTY4cGhtYzRvamdvOWc2MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-09-20T22:05:42.000Z",
+   "updated": "2018-09-20T22:05:42.991Z",
+   "summary": "생이ㅣ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-09-20T19:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-09-20T20:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "64sjadpk74oj8b9l61ijab9k6crm6b9p70q38b9kcli68phmc4ojgo9g60@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3076468810990000\"",
+   "id": "70sjgdpkccom4bb3ccq6ab9kcpj68b9p75hm6b9i6cpjacpj6thjccb46k",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBzamdkcGtjY29tNGJiM2NjcTZhYjlrY3BqNjhiOXA3NWhtNmI5aTZjcGphY3BqNnRoamNjYjQ2ayBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-09-29T15:20:05.000Z",
+   "updated": "2018-09-29T15:20:05.495Z",
+   "summary": "스페인어 수업 없음",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-10-06T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-10-06T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "70sjgdpkccom4bb3ccq6ab9kcpj68b9p75hm6b9i6cpjacpj6thjccb46k@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3082174367088000\"",
+   "id": "60s6apb3cli32bb16srm4b9k68rj4b9pc9hj8b9j75h6acr6cgr36o9n6o",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBzNmFwYjNjbGkzMmJiMTZzcm00YjlrNjhyajRiOXBjOWhqOGI5ajc1aDZhY3I2Y2dyMzZvOW42byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-11-01T15:46:23.000Z",
+   "updated": "2018-11-01T15:46:23.544Z",
+   "summary": "헝거게임 ㅅㅈ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-10-29T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-10-29T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "60s6apb3cli32bb16srm4b9k68rj4b9pc9hj8b9j75h6acr6cgr36o9n6o@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3082174368494000\"",
+   "id": "cco3adr2ccpj0bb674o30b9k6lhm4bb2c4smab9o69hjeor2cksjcdhpcc",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2NvM2FkcjJjY3BqMGJiNjc0bzMwYjlrNmxobTRiYjJjNHNtYWI5bzY5aGplb3IyY2tzamNkaHBjYyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-11-01T15:46:24.000Z",
+   "updated": "2018-11-01T15:46:24.247Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-10-21T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-10-21T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "cco3adr2ccpj0bb674o30b9k6lhm4bb2c4smab9o69hjeor2cksjcdhpcc@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3085371100912000\"",
+   "id": "6ssm6phicko30b9k6ko34b9k71i30b9pc9ijeb9h64pm4eb4cop3eor26o",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnNzbTZwaGlja28zMGI5azZrbzM0YjlrNzFpMzBiOXBjOWlqZWI5aDY0cG00ZWI0Y29wM2VvcjI2byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2018-11-20T03:45:50.000Z",
+   "updated": "2018-11-20T03:45:50.456Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-11-15T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2018-11-15T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6ssm6phicko30b9k6ko34b9k71i30b9pc9ijeb9h64pm4eb4cop3eor26o@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3094670518470000\"",
+   "id": "6sqj6p1jcpijib9hclhj6b9k70rm6bb2ckr6cb9j75i36dpjc8s3cp1g6k",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnNxajZwMWpjcGlqaWI5aGNsaGo2YjlrNzBybTZiYjJja3I2Y2I5ajc1aTM2ZHBqYzhzM2NwMWc2ayBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-01-12T23:20:59.000Z",
+   "updated": "2019-01-12T23:20:59.235Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-01-12T19:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-01-12T20:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6sqj6p1jcpijib9hclhj6b9k70rm6bb2ckr6cb9j75i36dpjc8s3cp1g6k@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3099298981824000\"",
+   "id": "61hm6e9k70p3ibb56him2b9k6csjabb16sp34b9n64o3ge9ockrm6cj1c8",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjFobTZlOWs3MHAzaWJiNTZoaW0yYjlrNmNzamFiYjE2c3AzNGI5bjY0bzNnZTlvY2tybTZjajFjOCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-02-08T18:11:30.000Z",
+   "updated": "2019-02-08T18:11:30.912Z",
+   "summary": "예원",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-23T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-02-23T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "61hm6e9k70p3ibb56him2b9k6csjabb16sp34b9n64o3ge9ockrm6cj1c8@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3099298986306000\"",
+   "id": "6csj0or16ksmcb9l74omcb9kckqj6b9o71gm6b9lcorm8cj2ckp6ccr364",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmNzajBvcjE2a3NtY2I5bDc0b21jYjlrY2txajZiOW83MWdtNmI5bGNvcm04Y2oyY2twNmNjcjM2NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-02-08T18:11:32.000Z",
+   "updated": "2019-02-08T18:11:33.153Z",
+   "summary": "혜인",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-27T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-02-27T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6csj0or16ksmcb9l74omcb9kckqj6b9o71gm6b9lcorm8cj2ckp6ccr364@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3099709266814000\"",
+   "id": "ccpjicr571i32bb570sm4b9kc5hmcbb16srjab9l6di66or5c9hj2p9mck",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2NwamljcjU3MWkzMmJiNTcwc200YjlrYzVobWNiYjE2c3JqYWI5bDZkaTY2b3I1YzloajJwOW1jayBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-02-11T03:10:33.000Z",
+   "updated": "2019-02-11T03:10:33.407Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-02-09T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-02-09T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "ccpjicr571i32bb570sm4b9kc5hmcbb16srjab9l6di66or5c9hj2p9mck@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3106369082030000\"",
+   "id": "74o3ec9g70r6abb5cor3eb9k68qmcbb1c4omab9g71gm8cj164oj0dr174",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRvM2VjOWc3MHI2YWJiNWNvcjNlYjlrNjhxbWNiYjFjNG9tYWI5ZzcxZ204Y2oxNjRvajBkcjE3NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-03-21T16:09:00.000Z",
+   "updated": "2019-03-21T16:09:01.015Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-03-12T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-03-12T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "74o3ec9g70r6abb5cor3eb9k68qmcbb1c4omab9g71gm8cj164oj0dr174@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3111765358484000\"",
+   "id": "64om6dhk6kq36b9g74rjcb9k69gm2b9p69i6abb5c8sm4opo6com2o9m6c",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRvbTZkaGs2a3EzNmI5Zzc0cmpjYjlrNjlnbTJiOXA2OWk2YWJiNWM4c200b3BvNmNvbTJvOW02YyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-04-21T21:37:59.000Z",
+   "updated": "2019-04-21T21:37:59.242Z",
+   "summary": "Spanish presentation",
+   "colorId": "11",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-05-11T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-05-11T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "64om6dhk6kq36b9g74rjcb9k69gm2b9p69i6abb5c8sm4opo6com2o9m6c@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3111765360434000\"",
+   "id": "chj32e1i74rm6bb3cpijab9k68q3gb9pcoqjgb9k6lim2or46tj68e336o",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2hqMzJlMWk3NHJtNmJiM2NwaWphYjlrNjhxM2diOXBjb3FqZ2I5azZsaW0yb3I0NnRqNjhlMzM2byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-04-21T21:38:00.000Z",
+   "updated": "2019-04-21T21:38:00.217Z",
+   "summary": "Spanish final exam",
+   "colorId": "11",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-05-25T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-05-25T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "chj32e1i74rm6bb3cpijab9k68q3gb9pcoqjgb9k6lim2or46tj68e336o@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117923078548000\"",
+   "id": "75gm4e3161i3eb9o60pm2b9k6tj34bb2c8omab9j68o64cpn6csmccpk74",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzVnbTRlMzE2MWkzZWI5bzYwcG0yYjlrNnRqMzRiYjJjOG9tYWI5ajY4bzY0Y3BuNmNzbWNjcGs3NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-05-27T12:52:19.000Z",
+   "updated": "2019-05-27T12:52:19.274Z",
+   "summary": "귀걸이 교채 가능",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-06-16T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-06-16T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "75gm4e3161i3eb9o60pm2b9k6tj34bb2c8omab9j68o64cpn6csmccpk74@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3117923082688000\"",
+   "id": "70q3ecr475hj4b9mckrj6b9kc8q3ebb26oo6ab9o68smcopo6thjcc33cg",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBxM2VjcjQ3NWhqNGI5bWNrcmo2YjlrYzhxM2ViYjI2b282YWI5bzY4c21jb3BvNnRoamNjMzNjZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-05-27T12:52:21.000Z",
+   "updated": "2019-05-27T12:52:21.344Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-05-09T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-05-09T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "70q3ecr475hj4b9mckrj6b9kc8q3ebb26oo6ab9o68smcopo6thjcc33cg@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3120016817986000\"",
+   "id": "6or62ob4ccr30bb4cor34b9kccom2bb16lj64b9p6ksj2p3468rj2ohk6c",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nm9yNjJvYjRjY3IzMGJiNGNvcjM0YjlrY2NvbTJiYjE2bGo2NGI5cDZrc2oycDM0NjhyajJvaGs2YyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-06-08T15:40:08.000Z",
+   "updated": "2019-06-08T15:40:08.993Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-06-08T12:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-06-08T13:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6or62ob4ccr30bb4cor34b9kccom2bb16lj64b9p6ksj2p3468rj2ohk6c@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3134802947088000\"",
+   "id": "6ko68p9p6go64b9lc5ijgb9k69ij0bb164sjib9l68sm8p9jckq64opm68",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmtvNjhwOXA2Z282NGI5bGM1aWpnYjlrNjlpajBiYjE2NHNqaWI5bDY4c204cDlqY2txNjRvcG02OCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-09-02T05:17:53.000Z",
+   "updated": "2019-09-02T05:17:53.544Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-08-29T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-08-29T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6ko68p9p6go64b9lc5ijgb9k69ij0bb164sjib9l68sm8p9jckq64opm68@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3134802947998000\"",
+   "id": "clj36d1n6op3ib9hc4r3ab9k74sm8bb26dgjab9p64pmao9h60q6aopgck",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2xqMzZkMW42b3AzaWI5aGM0cjNhYjlrNzRzbThiYjI2ZGdqYWI5cDY0cG1hbzloNjBxNmFvcGdjayBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-09-02T05:17:53.000Z",
+   "updated": "2019-09-02T05:17:53.999Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-08-03T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-08-03T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "clj36d1n6op3ib9hc4r3ab9k74sm8bb26dgjab9p64pmao9h60q6aopgck@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3148075526790000\"",
+   "id": "74rjeo9n6or3ib9o65h62b9k6sqj0bb1c4q3ebb36cs32oj26ks3gpb2cg",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRyamVvOW42b3IzaWI5bzY1aDYyYjlrNnNxajBiYjFjNHEzZWJiMzZjczMyb2oyNmtzM2dwYjJjZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-11-18T00:42:43.000Z",
+   "updated": "2019-11-18T00:42:43.395Z",
+   "summary": "Somewhere here",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-10-25T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-10-25T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "74rjeo9n6or3ib9o65h62b9k6sqj0bb1c4q3ebb36cs32oj26ks3gpb2cg@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3148075528354000\"",
+   "id": "61j3icr26gq30bb5clgm8b9k6kq68bb2cosmabb16gr30opmckr3ie1i6g",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjFqM2ljcjI2Z3EzMGJiNWNsZ204YjlrNmtxNjhiYjJjb3NtYWJiMTZncjMwb3BtY2tyM2llMWk2ZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-11-18T00:42:44.000Z",
+   "updated": "2019-11-18T00:42:44.177Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-11-16T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-11-16T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "61j3icr26gq30bb5clgm8b9k6kq68bb2cosmabb16gr30opmckr3ie1i6g@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3153049806716000\"",
+   "id": "6tj66ohn70sj2b9n6hijab9k70sj2bb1ccqj0b9h75j3gdj4cpi64p9jc8",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRqNjZvaG43MHNqMmI5bjZoaWphYjlrNzBzajJiYjFjY3FqMGI5aDc1ajNnZGo0Y3BpNjRwOWpjOCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2019-12-16T19:35:03.000Z",
+   "updated": "2019-12-16T19:35:03.358Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2019-12-13T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2019-12-13T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6tj66ohn70sj2b9n6hijab9k70sj2bb1ccqj0b9h75j3gdj4cpi64p9jc8@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3157378148232000\"",
+   "id": "cgsm6e1l75gj8b9p6hh64b9k6cr36bb26osjib9kcopj0c1g6opj0pb36c",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2dzbTZlMWw3NWdqOGI5cDZoaDY0YjlrNmNyMzZiYjI2b3NqaWI5a2NvcGowYzFnNm9wajBwYjM2YyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-01-10T20:44:33.000Z",
+   "updated": "2020-01-10T20:44:34.116Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-01-10T16:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-01-10T17:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "cgsm6e1l75gj8b9p6hh64b9k6cr36bb26osjib9kcopj0c1g6opj0pb36c@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3157784474364000\"",
+   "id": "74pm4c31ckqjabb46li38b9kc9gjebb161i38b9pckrjip36chj6adhk60",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRwbTRjMzFja3FqYWJiNDZsaTM4YjlrYzlnamViYjE2MWkzOGI5cGNrcmppcDM2Y2hqNmFkaGs2MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-01-13T05:10:37.000Z",
+   "updated": "2020-01-13T05:10:37.182Z",
+   "summary": "SCIENCE TEST",
+   "colorId": "11",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-01-14T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-01-14T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "74pm4c31ckqjabb46li38b9kc9gjebb161i38b9pckrjip36chj6adhk60@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3157784475662000\"",
+   "id": "71hm4dpn6sqjeb9g6pgjeb9k71ij8bb16ko68b9m6oomcdj569j68p9icc",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFobTRkcG42c3FqZWI5ZzZwZ2plYjlrNzFpajhiYjE2a282OGI5bTZvb21jZGo1NjlqNjhwOWljYyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-01-13T05:10:37.000Z",
+   "updated": "2020-01-13T05:10:37.831Z",
+   "summary": "ENGLISH ORAL EXAM DUE",
+   "colorId": "3",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-01-14T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-01-14T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "71hm4dpn6sqjeb9g6pgjeb9k71ij8bb16ko68b9m6oomcdj569j68p9icc@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3157784541740000\"",
+   "id": "61ij2ohncgomcb9o6dj30b9kc4pjab9ocoq34bb2chj36c9n6dimae32c4",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjFpajJvaG5jZ29tY2I5bzZkajMwYjlrYzRwamFiOW9jb3EzNGJiMmNoajM2YzluNmRpbWFlMzJjNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-01-13T05:11:10.000Z",
+   "updated": "2020-01-13T05:11:10.870Z",
+   "summary": "COMPUTER TEST",
+   "colorId": "9",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-01-13T01:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-01-13T02:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "61ij2ohncgomcb9o6dj30b9kc4pjab9ocoq34bb2chj36c9n6dimae32c4@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3157784542862000\"",
+   "id": "70s36e9h74q6ab9ncdi64b9k64ojib9ocdgj6b9i6cpjiohic8q36p1mc4",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBzMzZlOWg3NHE2YWI5bmNkaTY0YjlrNjRvamliOW9jZGdqNmI5aTZjcGppb2hpYzhxMzZwMW1jNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-01-13T05:11:11.000Z",
+   "updated": "2020-01-13T05:11:11.431Z",
+   "summary": "COMPUTER PROJECT DUE",
+   "colorId": "9",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-01-21T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-01-21T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "70s36e9h74q6ab9ncdi64b9k64ojib9ocdgj6b9i6cpjiohic8q36p1mc4@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3157785030738000\"",
+   "id": "cph66e1hccr68b9h6hh6cb9kc8ojgbb26hi3ib9mcdh68e9n6limaopo74",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y3BoNjZlMWhjY3I2OGI5aDZoaDZjYjlrYzhvamdiYjI2aGkzaWI5bWNkaDY4ZTluNmxpbWFvcG83NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-01-13T05:15:15.000Z",
+   "updated": "2020-01-13T05:15:15.369Z",
+   "summary": "COMP TECH DUE",
+   "colorId": "4",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-01-14T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-01-14T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "cph66e1hccr68b9h6hh6cb9kc8ojgbb26hi3ib9mcdh68e9n6limaopo74@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3164069901256000\"",
+   "id": "c4rjccb66cqm8b9n6crj2b9kccq3eb9o6gpmabb5cormcpb264sjip9l70",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRyamNjYjY2Y3FtOGI5bjZjcmoyYjlrY2NxM2ViOW82Z3BtYWJiNWNvcm1jcGIyNjRzamlwOWw3MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-02-18T14:09:10.000Z",
+   "updated": "2020-02-18T14:09:10.628Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-02-08T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-02-08T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c4rjccb66cqm8b9n6crj2b9kccq3eb9o6gpmabb5cormcpb264sjip9l70@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3180750062672000\"",
+   "id": "75ij4e9n60sjabb368o3eb9kcgpj8b9pc4oj2bb161hjgc9i61gj2ohh68",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzVpajRlOW42MHNqYWJiMzY4bzNlYjlrY2dwajhiOXBjNG9qMmJiMTYxaGpnYzlpNjFnajJvaGg2OCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-05-25T02:50:31.000Z",
+   "updated": "2020-05-25T02:50:31.336Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-04-11T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-04-11T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "75ij4e9n60sjabb368o3eb9kcgpj8b9pc4oj2bb161hjgc9i61gj2ohh68@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3180750066828000\"",
+   "id": "64p6adpj71hjab9m61i3cb9k6grj6b9oc5hjib9o6th64ohl64s38dplco",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRwNmFkcGo3MWhqYWI5bTYxaTNjYjlrNmdyajZiOW9jNWhqaWI5bzZ0aDY0b2hsNjRzMzhkcGxjbyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-05-25T02:50:33.000Z",
+   "updated": "2020-05-25T02:50:33.414Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-03-10T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-03-10T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "64p6adpj71hjab9m61i3cb9k6grj6b9oc5hjib9o6th64ohl64s38dplco@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3189857456876000\"",
+   "id": "64q3ep9h60r3ab9ickqmcb9k60sj6bb26csj6b9ickpj8phi6lgmacpj6o",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRxM2VwOWg2MHIzYWI5aWNrcW1jYjlrNjBzajZiYjI2Y3NqNmI5aWNrcGo4cGhpNmxnbWFjcGo2byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-07-16T19:45:28.000Z",
+   "updated": "2020-07-16T19:45:28.438Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-06-15T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-06-15T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "64q3ep9h60r3ab9ickqmcb9k60sj6bb26csj6b9ickpj8phi6lgmacpj6o@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3189857458088000\"",
+   "id": "6ti30opm6dh38b9kc9i6ab9kcorj8bb270pjib9k6opm2pb3ckqm4e1pco",
+   "status": "tentative",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnRpMzBvcG02ZGgzOGI5a2M5aTZhYjlrY29yajhiYjI3MHBqaWI5azZvcG0ycGIzY2txbTRlMXBjbyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2020-07-16T19:45:29.000Z",
+   "updated": "2020-07-16T19:45:29.044Z",
+   "summary": "ㅅㅇ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2020-07-16T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2020-07-16T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6ti30opm6dh38b9kc9i6ab9kcorj8bb270pjib9k6opm2pb3ckqm4e1pco@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3248983158680000\"",
+   "id": "75j68c33cpj3ib9l69j36b9kc9hjcb9o6oo32b9m75j68cr2corjcopj74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzVqNjhjMzNjcGozaWI5bDY5ajM2YjlrYzloamNiOW82b28zMmI5bTc1ajY4Y3IyY29yamNvcGo3NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-06-23T23:39:39.000Z",
+   "updated": "2021-06-23T23:39:39.340Z",
+   "summary": "Graduation",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-06-24T18:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-06-24T20:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "75j68c33cpj3ib9l69j36b9kc9hjcb9o6oo32b9m75j68cr2corjcopj74@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3248983664684000\"",
+   "id": "clh62e1mc9i62bb2clj3cb9k6phj0bb16crjab9o6gsmccr464o3adr1c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2xoNjJlMW1jOWk2MmJiMmNsajNjYjlrNnBoajBiYjE2Y3JqYWI5bzZnc21jY3I0NjRvM2FkcjFjNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-06-23T23:43:52.000Z",
+   "updated": "2021-06-23T23:43:52.342Z",
+   "summary": "student enrolment",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-27T14:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-27T15:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "clh62e1mc9i62bb2clj3cb9k6phj0bb16crjab9o6gsmccr464o3adr1c4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3249340057096000\"",
+   "id": "70sm2pb3c9j62bb168r6cb9kcgqmabb16gsjib9g6op36eb461h3ec1l6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBzbTJwYjNjOWo2MmJiMTY4cjZjYjlrY2dxbWFiYjE2Z3NqaWI5ZzZvcDM2ZWI0NjFoM2VjMWw2cyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-06-26T01:13:48.000Z",
+   "updated": "2021-06-26T01:13:48.548Z",
+   "summary": "Blood Test",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-07T10:10:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-07T11:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "70sm2pb3c9j62bb168r6cb9kcgqmabb16gsjib9g6op36eb461h3ec1l6s@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3249340169470000\"",
+   "id": "ckom2ob3cks3gb9gc9hj8b9k64rm8b9o61imcb9n64sj6or6c8p3cc9gcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2tvbTJvYjNja3MzZ2I5Z2M5aGo4YjlrNjRybThiOW82MWltY2I5bjY0c2o2b3I2YzhwM2NjOWdjYyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-06-26T01:14:44.000Z",
+   "updated": "2021-06-26T01:14:44.735Z",
+   "summary": "바부 arrives in Korea",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-06-26T03:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-06-26T03:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "ckom2ob3cks3gb9gc9hj8b9k64rm8b9o61imcb9n64sj6or6c8p3cc9gcc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3249340325358000\"",
+   "id": "c8qj8p3575j3ib9m69i30b9k60sjeb9pckojgb9jc5i3ecb568pjcc36cg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhxajhwMzU3NWozaWI5bTY5aTMwYjlrNjBzamViOXBja29qZ2I5amM1aTNlY2I1NjhwamNjMzZjZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-06-26T01:16:02.000Z",
+   "updated": "2021-06-26T01:16:02.679Z",
+   "summary": "바부 leaves Canada",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-06-25T13:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-06-25T13:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c8qj8p3575j3ib9m69i30b9k60sjeb9pckojgb9jc5i3ecb568pjcc36cg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3249489621774000\"",
+   "id": "6ph3ge3668sm6b9ocop62b9kccpj8b9o75hjgbb460o34oj26phj4d9gco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBoM2dlMzY2OHNtNmI5b2NvcDYyYjlrY2NwajhiOW83NWhqZ2JiNDYwbzM0b2oyNnBoajRkOWdjbyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-06-26T22:00:10.000Z",
+   "updated": "2021-06-26T22:00:10.887Z",
+   "summary": "Ultrasound",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-16T20:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-16T20:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6ph3ge3668sm6b9ocop62b9kccpj8b9o75hjgbb460o34oj26phj4d9gco@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3250015122134000\"",
+   "id": "c9h6cdhic4ojcbb168r62b9k6pj3cbb161hj8b9ncoq3apb268rjecj5c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzloNmNkaGljNG9qY2JiMTY4cjYyYjlrNnBqM2NiYjE2MWhqOGI5bmNvcTNhcGIyNjhyamVjajVjNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-06-29T22:59:21.000Z",
+   "updated": "2021-06-29T22:59:21.067Z",
+   "summary": "코로나 2차",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-10T18:20:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-10T18:20:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c9h6cdhic4ojcbb168r62b9k6pj3cbb161hj8b9ncoq3apb268rjecj5c4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3253849293252000\"",
+   "id": "74q34cb368omab9lc9ijgb9kcko3ebb268s3cb9ocdhj4e36c4s3eob374",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRxMzRjYjM2OG9tYWI5bGM5aWpnYjlrY2tvM2ViYjI2OHMzY2I5b2NkaGo0ZTM2YzRzM2VvYjM3NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-07-22T03:30:46.000Z",
+   "updated": "2021-07-22T03:30:46.626Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-20T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-20T21:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "74q34cb368omab9lc9ijgb9kcko3ebb268s3cb9ocdhj4e36c4s3eob374@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3253849431882000\"",
+   "id": "ccr34c1k64p62b9jc4oj0b9kc5j36bb16opj0b9jc4o3aopn6co6ce9jc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2NyMzRjMWs2NHA2MmI5amM0b2owYjlrYzVqMzZiYjE2b3BqMGI5amM0bzNhb3BuNmNvNmNlOWpjNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-07-22T03:30:46.000Z",
+   "updated": "2021-07-22T03:31:55.941Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-21T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-21T20:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "ccr34c1k64p62b9jc4oj0b9kc5j36bb16opj0b9jc4o3aopn6co6ce9jc4@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3254649944324000\"",
+   "id": "6sqm8cb465j6ab9n60p3eb9kchhjibb2cdh62b9hcdh3ge326grm4ob1c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnNxbThjYjQ2NWo2YWI5bjYwcDNlYjlrY2hoamliYjJjZGg2MmI5aGNkaDNnZTMyNmdybTRvYjFjNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-07-26T18:42:52.000Z",
+   "updated": "2021-07-26T18:42:52.162Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-25T13:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-25T22:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6sqm8cb465j6ab9n60p3eb9kchhjibb2cdh62b9hcdh3ge326grm4ob1c4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3254649944932000\"",
+   "id": "6sp62oj4c8pj4b9i6pij4b9kcco64b9o6lh62b9n6tim2p1p6gq3gp35cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnNwNjJvajRjOHBqNGI5aTZwaWo0YjlrY2NvNjRiOW82bGg2MmI5bjZ0aW0ycDFwNmdxM2dwMzVjYyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-07-26T18:42:52.000Z",
+   "updated": "2021-07-26T18:42:52.466Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-23T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-23T21:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6sp62oj4c8pj4b9i6pij4b9kcco64b9o6lh62b9n6tim2p1p6gq3gp35cc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3254650046286000\"",
+   "id": "6osj8phk74q36b9kcks6ab9kcco3ibb16hij2b9m75hjedb4c4q32o9h64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nm9zajhwaGs3NHEzNmI5a2NrczZhYjlrY2NvM2liYjE2aGlqMmI5bTc1aGplZGI0YzRxMzJvOWg2NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-07-26T18:43:43.000Z",
+   "updated": "2021-07-26T18:43:43.143Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-22T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-23T00:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6osj8phk74q36b9kcks6ab9kcco3ibb16hij2b9m75hjedb4c4q32o9h64@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3255218595098000\"",
+   "id": "coqjgphj6tijcb9lchh6cb9k74o66bb2c4p30b9h6cr34e316opmao9mc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y29xamdwaGo2dGlqY2I5bGNoaDZjYjlrNzRvNjZiYjJjNHAzMGI5aDZjcjM0ZTMxNm9wbWFvOW1jNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-07-30T01:41:37.000Z",
+   "updated": "2021-07-30T01:41:37.549Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-27T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-27T21:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "coqjgphj6tijcb9lchh6cb9k74o66bb2c4p30b9h6cr34e316opmao9mc4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3255218839078000\"",
+   "id": "c4qjeo9g65i34b9h6or3ab9k61j3cbb2c8oj8bb26os38cr56kqjecr574",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRxamVvOWc2NWkzNGI5aDZvcjNhYjlrNjFqM2NiYjJjOG9qOGJiMjZvczM4Y3I1NmtxamVjcjU3NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-07-30T01:43:39.000Z",
+   "updated": "2021-07-30T01:43:39.539Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-07-29T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-07-29T21:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c4qjeo9g65i34b9h6or3ab9k61j3cbb2c8oj8bb26os38cr56kqjecr574@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3257495761750000\"",
+   "id": "68qjedb5ccq3ebb26cr32b9kcgs66bb26cr34bb3cdh32chl6oq36o9g6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjhxamVkYjVjY3EzZWJiMjZjcjMyYjlrY2dzNjZiYjI2Y3IzNGJiM2NkaDMyY2hsNm9xMzZvOWc2byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-12T05:58:00.000Z",
+   "updated": "2021-08-12T05:58:00.875Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-11T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-11T18:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "68qjedb5ccq3ebb26cr32b9kcgs66bb26cr34bb3cdh32chl6oq36o9g6o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3257495904254000\"",
+   "id": "chgj4ohjc4pj8b9occpjeb9k60sm4b9o60o38b9pc4r32db1cosm4oj270",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2hnajRvaGpjNHBqOGI5b2NjcGplYjlrNjBzbTRiOW82MG8zOGI5cGM0cjMyZGIxY29zbTRvajI3MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-12T05:59:12.000Z",
+   "updated": "2021-08-12T05:59:12.127Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-10T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-10T21:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "chgj4ohjc4pj8b9occpjeb9k60sm4b9o60o38b9pc4r32db1cosm4oj270@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3257496258342000\"",
+   "id": "71gjcohh6dj6cbb671gj8b9kc9hj0b9pccrjib9lccsjecpm6csjcc1l68",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFnamNvaGg2ZGo2Y2JiNjcxZ2o4YjlrYzloajBiOXBjY3JqaWI5bGNjc2plY3BtNmNzamNjMWw2OCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-12T06:02:09.000Z",
+   "updated": "2021-08-12T06:02:09.171Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-08T15:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-08T22:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "71gjcohh6dj6cbb671gj8b9kc9hj0b9pccrjib9lccsjecpm6csjcc1l68@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3257496365760000\"",
+   "id": "c4p64cb664rjib9gccojgb9k65hjgbb160p3ibb374sj8p1lcdhm2d1p64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzRwNjRjYjY2NHJqaWI5Z2Njb2pnYjlrNjVoamdiYjE2MHAzaWJiMzc0c2o4cDFsY2RobTJkMXA2NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-12T06:03:02.000Z",
+   "updated": "2021-08-12T06:03:02.880Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-04T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-04T19:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c4p64cb664rjib9gccojgb9k65hjgbb160p3ibb374sj8p1lcdhm2d1p64@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3257753115056000\"",
+   "id": "75h66cr565j3ibb175j32b9kckqj6b9ocgqm4b9icph32phk6ks6cp9n6s",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzVoNjZjcjU2NWozaWJiMTc1ajMyYjlrY2txajZiOW9jZ3FtNGI5aWNwaDMycGhrNmtzNmNwOW42cyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-13T17:42:37.000Z",
+   "updated": "2021-08-13T17:42:37.528Z",
+   "summary": "ㅇㅈ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-17T12:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-17T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "75h66cr565j3ibb175j32b9kckqj6b9ocgqm4b9icph32phk6ks6cp9n6s@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3260866078318000\"",
+   "id": "74s30dpn74rj2bb665gjcb9k6ks6ab9oc4sjeb9j69ij2chi61hjeor2c4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRzMzBkcG43NHJqMmJiNjY1Z2pjYjlrNmtzNmFiOW9jNHNqZWI5ajY5aWoyY2hpNjFoamVvcjJjNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-31T18:03:59.000Z",
+   "updated": "2021-08-31T18:03:59.159Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-24T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-24T21:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "74s30dpn74rj2bb665gjcb9k6ks6ab9oc4sjeb9j69ij2chi61hjeor2c4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3260866244520000\"",
+   "id": "ckpjgchhcgs3ab9hc9i3cb9kcpi3ibb1cli3eb9n64sm8c1mcpijaoj26g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2twamdjaGhjZ3MzYWI5aGM5aTNjYjlrY3BpM2liYjFjbGkzZWI5bjY0c204YzFtY3BpamFvajI2ZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-31T18:05:22.000Z",
+   "updated": "2021-08-31T18:05:22.260Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-26T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-26T21:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "ckpjgchhcgs3ab9hc9i3cb9kcpi3ibb1cli3eb9n64sm8c1mcpijaoj26g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3260866245250000\"",
+   "id": "c8o3eohh6grjgb9m6go3eb9kc5h68b9ocgr38b9m64rm8c1ickrm2d9pco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhvM2VvaGg2Z3JqZ2I5bTZnbzNlYjlrYzVoNjhiOW9jZ3IzOGI5bTY0cm04YzFpY2tybTJkOXBjbyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-31T18:05:22.000Z",
+   "updated": "2021-08-31T18:05:22.625Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-27T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-27T21:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c8o3eohh6grjgb9m6go3eb9kc5h68b9ocgr38b9m64rm8c1ickrm2d9pco@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3260866245852000\"",
+   "id": "c9j62c3475i3gb9n6kqjeb9k64qj8bb16tj36bb568s64p1l61j68d1ico",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzlqNjJjMzQ3NWkzZ2I5bjZrcWplYjlrNjRxajhiYjE2dGozNmJiNTY4czY0cDFsNjFqNjhkMWljbyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-08-31T18:05:22.000Z",
+   "updated": "2021-08-31T18:05:22.926Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-29T16:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-29T22:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c9j62c3475i3gb9n6kqjeb9k64qj8bb16tj36bb568s64p1l61j68d1ico@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3261535572050000\"",
+   "id": "6lgm6e9hc5i3cb9h6pi3ab9k70sm8b9o6gr6cb9j6opm2cj5c8r36c3270",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmxnbTZlOWhjNWkzY2I5aDZwaTNhYjlrNzBzbThiOW82Z3I2Y2I5ajZvcG0yY2o1YzhyMzZjMzI3MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-09-04T15:03:05.000Z",
+   "updated": "2021-09-04T15:03:06.025Z",
+   "summary": "STOP YOUTUBE PREMIUM ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-10-02T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-10-02T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6lgm6e9hc5i3cb9h6pi3ab9k70sm8b9o6gr6cb9j6opm2cj5c8r36c3270@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3261555235562000\"",
+   "id": "cdgjior36hi34b9nchim2b9kcpgm6b9oc8r32b9k74s62cb1cph3ed9p64",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2RnamlvcjM2aGkzNGI5bmNoaW0yYjlrY3BnbTZiOW9jOHIzMmI5azc0czYyY2IxY3BoM2VkOXA2NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-09-04T17:46:57.000Z",
+   "updated": "2021-09-04T17:46:57.781Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-08-31T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-08-31T22:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "cdgjior36hi34b9nchim2b9kcpgm6b9oc8r32b9k74s62cb1cph3ed9p64@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3261555236518000\"",
+   "id": "chgjip9h64sj0b9p60pj4b9k60q64b9ocgsm8b9kc4qjccr66sojgd3264",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2hnamlwOWg2NHNqMGI5cDYwcGo0YjlrNjBxNjRiOW9jZ3NtOGI5a2M0cWpjY3I2NnNvamdkMzI2NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-09-04T17:46:58.000Z",
+   "updated": "2021-09-04T17:46:58.259Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-09-02T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-09-02T22:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "chgjip9h64sj0b9p60pj4b9k60q64b9ocgsm8b9kc4qjccr66sojgd3264@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3261555313562000\"",
+   "id": "c8rjgp1o64q3gbb2ccrm2b9kc4sm6b9o6hh3gb9o60rj6c9nc4r6cp1l74",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhyamdwMW82NHEzZ2JiMmNjcm0yYjlrYzRzbTZiOW82aGgzZ2I5bzYwcmo2YzluYzRyNmNwMWw3NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2021-09-04T17:47:36.000Z",
+   "updated": "2021-09-04T17:47:36.781Z",
+   "summary": "킹콩 알바",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2021-09-03T17:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2021-09-03T22:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c8rjgp1o64q3gbb2ccrm2b9kc4sm6b9o6hh3gb9o60rj6c9nc4r6cp1l74@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3270264467690000\"",
+   "id": "4fn69i528hrndqdjhs799nkptb",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGZuNjlpNTI4aHJuZHFkamhzNzk5bmtwdGIgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2021-10-25T03:23:53.000Z",
+   "updated": "2021-10-25T03:23:53.845Z",
+   "summary": "LE/EECS 1012 LABTEST01",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2021-10-25"
+   },
+   "end": {
+    "date": "2021-10-26"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4fn69i528hrndqdjhs799nkptb@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3270264654958000\"",
+   "id": "2hplprau6nikc7bet77iu4jmtj",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MmhwbHByYXU2bmlrYzdiZXQ3N2l1NGptdGogZXN0cmVsbGFraW0wM0Bt",
+   "created": "2021-10-25T03:25:27.000Z",
+   "updated": "2021-10-25T03:25:27.479Z",
+   "summary": "SC/PHYS 1421 LAB04",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2021-10-31"
+   },
+   "end": {
+    "date": "2021-11-01"
+   },
+   "transparency": "transparent",
+   "iCalUID": "2hplprau6nikc7bet77iu4jmtj@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3270264675700000\"",
+   "id": "5ro6tu7jjd69abe6f90m1ufglh",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXJvNnR1N2pqZDY5YWJlNmY5MG0xdWZnbGggZXN0cmVsbGFraW0wM0Bt",
+   "created": "2021-10-25T03:25:37.000Z",
+   "updated": "2021-10-25T03:25:37.850Z",
+   "summary": "SC/PHYS 1421 MIDTERM",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2021-11-01"
+   },
+   "end": {
+    "date": "2021-11-02"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5ro6tu7jjd69abe6f90m1ufglh@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3289722530776000\"",
+   "id": "60s6ad3570q34b9i64pm4b9kcpim2bb26orjeb9nckpm6p1h64p32o9n6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBzNmFkMzU3MHEzNGI5aTY0cG00YjlrY3BpbTJiYjI2b3JqZWI5bmNrcG02cDFoNjRwMzJvOW42byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2022-02-14T17:54:25.000Z",
+   "updated": "2022-02-14T17:54:25.388Z",
+   "summary": "Stop amazon music",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-03-15T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2022-03-15T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "60s6ad3570q34b9i64pm4b9kcpim2bb26orjeb9nckpm6p1h64p32o9n6o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3297010058186000\"",
+   "id": "70s34pj16tijcbb56gqjgb9k6hj64b9p65gm8b9p6hhj6pb36sq3cp1m6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzBzMzRwajE2dGlqY2JiNTZncWpnYjlrNmhqNjRiOXA2NWdtOGI5cDZoaGo2cGIzNnNxM2NwMW02ZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2022-03-28T22:03:49.000Z",
+   "updated": "2022-03-28T22:03:49.093Z",
+   "summary": "Work",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-03-27T11:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2022-03-27T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "70s34pj16tijcbb56gqjgb9k6hj64b9p65gm8b9p6hhj6pb36sq3cp1m6g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3297010059348000\"",
+   "id": "6pgjgoj26hij4bb16kqm6b9k6hhmab9ochh3eb9o6cs3ichm6hhjechhc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBnamdvajI2aGlqNGJiMTZrcW02YjlrNmhobWFiOW9jaGgzZWI5bzZjczNpY2htNmhoamVjaGhjNCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2022-03-28T22:03:49.000Z",
+   "updated": "2022-03-28T22:03:49.674Z",
+   "summary": "Work",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2022-03-26T13:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2022-03-26T16:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6pgjgoj26hij4bb16kqm6b9k6hhmab9ochh3eb9o6cs3ichm6hhjechhc4@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355677664000\"",
+   "id": "08qmsm6uae04bl6820vgrb59a7",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDhxbXNtNnVhZTA0Ymw2ODIwdmdyYjU5YTcgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2022-01-09T22:35:44.000Z",
+   "updated": "2022-12-04T18:17:18.832Z",
+   "summary": "ElleHacks: Volunteer Info Session #1",
+   "description": "\u003chtml-blob\u003e\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003cb\u003eZoom link:&nbsp;\u003ca href=\"https://yorku.zoom.us/j/91881707558\"\u003ehttps://yorku.zoom.us/j/91881707558\u003c/a\u003e\u003cbr\u003e\u003c/b\u003e\u003cbr\u003eHi friends, thank you for joining us for ElleHacks 2022! This is one of two calendar invites you'll receive. The two sessions will cover the \u003cb\u003esame\u003c/b\u003e&nbsp;info, so please pick whichever time is most convenient for you.\u003cbr\u003e\u003cbr\u003eThis information session will cover the responsibilities of volunteers at the event, as well as how to navigate our event platforms (Hopin, Discord, and Devpost).\u003cbr\u003e\u003cbr\u003eThis meeting will be recorded and shared afterwards. We're also happy to answer questions via email at \u003ca href=\"mailto:info@ellehacks.com\"\u003einfo@ellehacks.com\u003c/a\u003e.\u003cb\u003e\u003cbr\u003e\u003c/b\u003e\u003cu\u003e\u003c/u\u003e\u003cu\u003e\u003c/u\u003e\u003c/html-blob\u003e",
+   "creator": {
+    "email": "info@ellehacks.com"
+   },
+   "organizer": {
+    "email": "info@ellehacks.com"
+   },
+   "start": {
+    "dateTime": "2022-01-30T12:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2022-01-30T13:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "08qmsm6uae04bl6820vgrb59a7@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "needsAction"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "guestsCanSeeOtherGuests": false,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355677664000\"",
+   "id": "0nufej6gvqmgijdqdohthj3hp4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MG51ZmVqNmd2cW1naWpkcWRvaHRoajNocDQgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-02-24T19:51:54.000Z",
+   "updated": "2022-12-04T18:17:18.832Z",
+   "summary": "생이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-02-08T15:00:00-05:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-02-08T15:00:00-05:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "0nufej6gvqmgijdqdohthj3hp4@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355677664000\"",
+   "id": "148tvaodpf7t9q241nfv0pjtis",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTQ4dHZhb2RwZjd0OXEyNDFuZnYwcGp0aXMgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-04-24T04:35:05.000Z",
+   "updated": "2022-12-04T18:17:18.832Z",
+   "summary": "생이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-04-10T07:00:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-04-10T08:00:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "148tvaodpf7t9q241nfv0pjtis@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355677664000\"",
+   "id": "21aikt14dq5evlv4614qr2joe9",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MjFhaWt0MTRkcTVldmx2NDYxNHFyMmpvZTkgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2022-01-09T22:36:26.000Z",
+   "updated": "2022-12-04T18:17:18.832Z",
+   "summary": "ElleHacks: Volunteer Info Session #2",
+   "description": "\u003chtml-blob\u003e\u003cb\u003eZoom link:&nbsp;\u003ca href=\"https://yorku.zoom.us/j/91881707558\" id=\"ow957\" __is_owner=\"true\"\u003ehttps://yorku.zoom.us/j/91881707558\u003c/a\u003e\u003cbr\u003e\u003c/b\u003e\u003cbr\u003eHi friends, thank you for joining us for ElleHacks 2022! This is one of two calendar invites you'll receive. The two sessions will cover the \u003cb\u003esame\u003c/b\u003e&nbsp;info, so please pick whichever time is most convenient for you.\u003cbr\u003e\u003cbr\u003eThis information session will cover the responsibilities of volunteers at the event, as well as how to navigate our event platforms (Hopin, Discord, and Devpost).\u003cbr\u003e\u003cbr\u003eThis meeting will be recorded and shared afterwards. We're also happy to answer questions via email at \u003ca href=\"mailto:info@ellehacks.com\"\u003einfo@ellehacks.com\u003c/a\u003e.\u003c/html-blob\u003e",
+   "creator": {
+    "email": "info@ellehacks.com"
+   },
+   "organizer": {
+    "email": "info@ellehacks.com"
+   },
+   "start": {
+    "dateTime": "2022-01-30T17:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2022-01-30T18:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "21aikt14dq5evlv4614qr2joe9@google.com",
+   "sequence": 1,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "tentative"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/qtb-qerh-ets",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/qtb-qerh-ets",
+      "label": "meet.google.com/qtb-qerh-ets"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/qtb-qerh-ets?pin=3947494794392",
+      "pin": "3947494794392"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-289-316-7129",
+      "label": "+1 289-316-7129",
+      "pin": "254784939"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "qtb-qerh-ets"
+   },
+   "guestsCanInviteOthers": false,
+   "guestsCanSeeOtherGuests": false,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355677664000\"",
+   "id": "3s3j1dvuluiu7m15r6avalfe0o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M3MzajFkdnVsdWl1N20xNXI2YXZhbGZlMG8gZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-01-25T23:46:33.000Z",
+   "updated": "2022-12-04T18:17:18.832Z",
+   "summary": "생이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-01-14T22:00:00-05:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-01-14T23:00:00-05:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "3s3j1dvuluiu7m15r6avalfe0o@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355726636000\"",
+   "id": "76g761ke6d9eq9qgjql83nnqac",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzZnNzYxa2U2ZDllcTlxZ2pxbDgzbm5xYWMgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-05-24T11:13:53.000Z",
+   "updated": "2022-12-04T18:17:43.318Z",
+   "summary": "생이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-05-03T14:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-05-03T15:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "76g761ke6d9eq9qgjql83nnqac@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355726636000\"",
+   "id": "g177jdn4b2ei5c6ve51jjedchs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZzE3N2pkbjRiMmVpNWM2dmU1MWpqZWRjaHMgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-06-23T11:18:12.000Z",
+   "updated": "2022-12-04T18:17:43.318Z",
+   "summary": "생이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-02T14:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-06-02T15:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "g177jdn4b2ei5c6ve51jjedchs@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355726636000\"",
+   "id": "nqs9mbnlquauov5svkb2jtmcc4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bnFzOW1ibmxxdWF1b3Y1c3ZrYjJqdG1jYzQgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2015-11-26T15:30:28.000Z",
+   "updated": "2022-12-04T18:17:43.318Z",
+   "summary": "생이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-11-23T15:30:00-05:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2015-11-23T16:30:00-05:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "nqs9mbnlquauov5svkb2jtmcc4@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355726636000\"",
+   "id": "o23e4qv3b0r1btbra4rktmrcf8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=bzIzZTRxdjNiMHIxYnRicmE0cmt0bXJjZjggZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-06-23T11:18:14.000Z",
+   "updated": "2022-12-04T18:17:43.318Z",
+   "summary": "수련회",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-30T11:00:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-06-30T12:00:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "o23e4qv3b0r1btbra4rktmrcf8@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355756060000\"",
+   "id": "p3e63i7fc8cluofvbs1cue4eb0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cDNlNjNpN2ZjOGNsdW9mdmJzMWN1ZTRlYjAgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-06-23T11:18:13.000Z",
+   "updated": "2022-12-04T18:17:58.030Z",
+   "summary": "방학",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-30T14:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-06-30T15:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "p3e63i7fc8cluofvbs1cue4eb0@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355756060000\"",
+   "id": "q5svkl0ntk0v1lccpm9aj92ko8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cTVzdmtsMG50azB2MWxjY3BtOWFqOTJrbzggZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-03-25T01:35:20.000Z",
+   "updated": "2022-12-04T18:17:58.030Z",
+   "summary": "생이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-03-19T07:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-03-19T08:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "q5svkl0ntk0v1lccpm9aj92ko8@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355756060000\"",
+   "id": "ra5np0eae1s3f360npk6pac0ak",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cmE1bnAwZWFlMXMzZjM2MG5wazZwYWMwYWsgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2015-09-27T09:59:27.000Z",
+   "updated": "2022-12-04T18:17:58.030Z",
+   "summary": "My first",
+   "description": "생이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-22T06:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2015-09-22T06:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "ra5np0eae1s3f360npk6pac0ak@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355756060000\"",
+   "id": "tfefaltcujun3138k9pmhd4qbs",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dGZlZmFsdGN1anVuMzEzOGs5cG1oZDRxYnMgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2015-09-27T09:59:26.000Z",
+   "updated": "2022-12-04T18:17:58.030Z",
+   "summary": "School start",
+   "location": "R.J.Lang",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-08T08:00:00-04:00",
+    "timeZone": "America/Chicago"
+   },
+   "end": {
+    "dateTime": "2015-09-08T16:00:00-04:00",
+    "timeZone": "America/Chicago"
+   },
+   "iCalUID": "tfefaltcujun3138k9pmhd4qbs@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3340355756060000\"",
+   "id": "uli7fkeil4aadm9hbgv2sap80c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=dWxpN2ZrZWlsNGFhZG05aGJndjJzYXA4MGMgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2016-06-23T11:18:12.000Z",
+   "updated": "2022-12-04T18:17:58.030Z",
+   "summary": "학교 마지막날",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "displayName": "Estrella Kim",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2016-06-29T14:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "end": {
+    "dateTime": "2016-06-29T15:30:00-04:00",
+    "timeZone": "America/Argentina/Buenos_Aires"
+   },
+   "iCalUID": "uli7fkeil4aadm9hbgv2sap80c@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "displayName": "Estrella Kim",
+     "organizer": true,
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3347942099552000\"",
+   "id": "_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g8co32d1g8p13ed1h690k8e9g64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6t146c226go38e9p60ok8dpk6ss30ga36ks30h9k6sp30ghi6sqg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc4Y28zMmQxZzhwMTNlZDFoNjkwazhlOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNnQxNDZjMjI2Z28zOGU5cDYwb2s4ZHBrNnNzMzBnYTM2a3MzMGg5azZzcDMwZ2hpNnNxZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-01-17T14:03:54.000Z",
+   "updated": "2023-01-17T15:57:29.776Z",
+   "summary": "Kickoff",
+   "description": "\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin on your computer, mobile app or room device\nClick here to join the meeting\u003chttps://teams.microsoft.com/l/meetup-join/19%3ameeting_NWNkZmY1Y2YtODA3ZC00NTAyLTljNjAtNTg0NjhiNmUwYmE1%40thread.v2/0?context=%7b%22Tid%22%3a%22258f1f99-ee3d-42c7-bfc5-7af1b2343e02%22%2c%22Oid%22%3a%2272181551-b891-475b-94fc-b013f2a9b43c%22%7d\u003e\nMeeting ID: 263 867 126 16\nPasscode: zsu9N4\nDownload Teams\u003chttps://www.microsoft.com/en-us/microsoft-teams/download-app\u003e | Join on the web\u003chttps://www.microsoft.com/microsoft-teams/join-a-meeting\u003e\nJoin with a video conferencing device\nteams@statcan.video.canada.ca\u003cmailto:teams@statcan.video.canada.ca\u003e\nVideo Conference ID: 112 880 878 3\nAlternate VTC instructions\u003chttps://pexip.me/teams/statcan.video.canada.ca/1128808783\u003e\nOr call in (audio only)\n+1 613-701-1862,,933042675#\u003ctel:+16137011862,,933042675\u003e   Canada, Ottawa-Hull\nPhone Conference ID: 933 042 675#\nFind a local number\u003chttps://dialin.teams.microsoft.com/98e0075f-0d39-4ae8-b392-a4eded378a19?id=933042675\u003e | Reset PIN\u003chttps://dialin.teams.microsoft.com/usp/pstnconferencing\u003e\nLearn More\u003chttps://aka.ms/JoinTeamsMeeting\u003e | Meeting options\u003chttps://teams.microsoft.com/meetingOptions/?organizerId=72181551-b891-475b-94fc-b013f2a9b43c&tenantId=258f1f99-ee3d-42c7-bfc5-7af1b2343e02&threadId=19_meeting_NWNkZmY1Y2YtODA3ZC00NTAyLTljNjAtNTg0NjhiNmUwYmE1@thread.v2&messageId=0&language=en-US\u003e\n________________________________________________________________________________\n\n\n",
+   "location": "Microsoft Teams Meeting",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "nhaimoun@maaloumatix.ca",
+    "displayName": "Nathir Haimoun"
+   },
+   "start": {
+    "dateTime": "2023-01-17T11:00:00-05:00",
+    "timeZone": "America/Denver"
+   },
+   "end": {
+    "dateTime": "2023-01-17T11:25:00-05:00",
+    "timeZone": "America/Denver"
+   },
+   "iCalUID": "040000008200E00074C5B7101A82E00800000000C0140FB7412AD9010000000000000000100000007BC0B4049901D74780AC580E4720B275",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3357356346590000\"",
+   "id": "64rjicpmc8sj0b9pcksjgb9k6tijgbb1cgs32bb670s34p9k6kom8dpl6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRyamljcG1jOHNqMGI5cGNrc2pnYjlrNnRpamdiYjFjZ3MzMmJiNjcwczM0cDlrNmtvbThkcGw2byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-03-13T03:29:33.000Z",
+   "updated": "2023-03-13T03:29:33.295Z",
+   "summary": "산",
+   "description": "12inch 높이\n15inch 길이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-03-12T00:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-03-12T01:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "64rjicpmc8sj0b9pcksjgb9k6tijgbb1cgs32bb670s34p9k6kom8dpl6o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3357356347738000\"",
+   "id": "c8r64db269j3abb374sjab9k75i32bb2cgrjab9gc8qjid3160p38d9p60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhyNjRkYjI2OWozYWJiMzc0c2phYjlrNzVpMzJiYjJjZ3JqYWI5Z2M4cWppZDMxNjBwMzhkOXA2MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-03-13T03:29:33.000Z",
+   "updated": "2023-03-13T03:29:33.869Z",
+   "summary": "산이왔다",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-02-24T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-02-24T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c8r64db269j3abb374sjab9k75i32bb2cgrjab9gc8qjid3160p38d9p60@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3365391892985000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehqj2tb6ehq3aojmccp6mprlccr76t9oedq6gshh69p6gr3de0smqopjehjmaobidtjj4thidkr64d3fe4r30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVocWoydGI2ZWhxM2Fvam1jY3A2bXBybGNjcjc2dDlvZWRxNmdzaGg2OXA2Z3IzZGUwc21xb3BqZWhqbWFvYmlkdGpqNHRoaWRrcjY0ZDNmZTRyMzAgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2023-04-27T18:01:48.000Z",
+   "updated": "2023-04-29T13:03:04.440Z",
+   "summary": "Flight to Seoul (AC 61)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMHOQcw3Pzoem7X-ihV6zSDxGy-ovJbpao\n",
+   "location": "Toronto YYZ",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "dateTime": "2023-04-28T14:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-04-29T03:35:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tu1uftt5bvc2kguc6su8sthr12rhlmp9mc3tgearog2v2m6b4oq60",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": false
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMHOQcw3Pzoem7X-ihV6zSDxGy-ovJbpao",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3367076624706000\"",
+   "id": "g5riufi6bd98h8cq23m3qaidso",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZzVyaXVmaTZiZDk4aDhjcTIzbTNxYWlkc28gZXN0cmVsbGFraW0wM0Bt",
+   "created": "2023-05-06T15:49:52.000Z",
+   "updated": "2023-05-08T09:31:52.353Z",
+   "summary": "Marketing - Hanbyul (Estrella) Kim and Nicolas Lengrand",
+   "description": "Event Name: 30 Minutes Meeting\n\n\n\n\nLocation: This is a Google Meet web conference.\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps://calendly.com/events/0f61c7ec-32b6-4d22-ac0c-6a5d7ef2a76d/google_meet\n\nPlease share anything that will help prepare for our meeting.: Sorry I am rescheduling it. It should be May 8th 10:30AM EDT? Thanks!\n\nNeed to make changes to this event?\nCancel: https://calendly.com/cancellations/ee019606-2ac4-4b2a-8e0d-50f12829e72b\nReschedule: https://calendly.com/reschedulings/ee019606-2ac4-4b2a-8e0d-50f12829e72b\n\nPowered by Calendly.com\n",
+   "location": "Google Meet (instructions in description)",
+   "creator": {
+    "email": "nicolas.lengrand@comparastore.com"
+   },
+   "organizer": {
+    "email": "nicolas.lengrand@comparastore.com"
+   },
+   "start": {
+    "dateTime": "2023-05-08T10:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-05-08T11:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "g5riufi6bd98h8cq23m3qaidso@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "nicolas.lengrand@comparastore.com",
+     "organizer": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/pzf-odxr-gvu",
+   "conferenceData": {
+    "createRequest": {
+     "requestId": "3ce8364f-6b99-47ce-a581-fb3fa0a11853",
+     "conferenceSolutionKey": {
+      "type": "hangoutsMeet"
+     },
+     "status": {
+      "statusCode": "success"
+     }
+    },
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/pzf-odxr-gvu",
+      "label": "meet.google.com/pzf-odxr-gvu"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/pzf-odxr-gvu?pin=6576278052170",
+      "pin": "6576278052170"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-647-732-2001",
+      "label": "+1 647-732-2001",
+      "pin": "428642862"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "pzf-odxr-gvu"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3367354242256000\"",
+   "id": "2d9av4vmh7a4phhajf99rvbs98",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MmQ5YXY0dm1oN2E0cGhoYWpmOTlydmJzOTggZXN0cmVsbGFraW0wM0Bt",
+   "created": "2023-05-10T00:04:58.000Z",
+   "updated": "2023-05-10T00:05:21.128Z",
+   "summary": "Hanbyul (Estrella) Kim and Henrik Van Der Horst",
+   "description": "Event Name: 30 Minute Meeting\n\nLocation: This is a Google Meet web conference.\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps://calendly.com/events/c21485d4-3570-4018-a1b5-c6903a6a8014/google_meet\n\nNeed to make changes to this event?\nCancel: https://calendly.com/cancellations/608abb63-c5c6-49ef-bd55-baa19402cec3\nReschedule: https://calendly.com/reschedulings/608abb63-c5c6-49ef-bd55-baa19402cec3\n\nPowered by Calendly.com\n",
+   "location": "Google Meet (instructions in description)",
+   "creator": {
+    "email": "henrik.van-der-horst@comparastore.com"
+   },
+   "organizer": {
+    "email": "henrik.van-der-horst@comparastore.com"
+   },
+   "start": {
+    "dateTime": "2023-05-10T09:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-05-10T10:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "2d9av4vmh7a4phhajf99rvbs98@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "henrik.van-der-horst@comparastore.com",
+     "organizer": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/tqp-saqr-bvn",
+   "conferenceData": {
+    "createRequest": {
+     "requestId": "89ece168-ac6d-4f0c-bbf3-fc883489ce79",
+     "conferenceSolutionKey": {
+      "type": "hangoutsMeet"
+     },
+     "status": {
+      "statusCode": "success"
+     }
+    },
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/tqp-saqr-bvn",
+      "label": "meet.google.com/tqp-saqr-bvn"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/tqp-saqr-bvn?pin=3025832389758",
+      "pin": "3025832389758"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-604-774-6290",
+      "label": "+1 604-774-6290",
+      "pin": "930774308"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "tqp-saqr-bvn"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3369693331464000\"",
+   "id": "orr37dphjk8iesr8rnpu2gsqsc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b3JyMzdkcGhqazhpZXNyOHJucHUyZ3Nxc2MgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2023-05-23T01:38:37.000Z",
+   "updated": "2023-05-23T12:57:45.732Z",
+   "summary": "Hanbyul (Estrella) Kim and Henrik Van Der Horst",
+   "description": "Event Name: 30 Minute Meeting\n\nLocation: This is a Google Meet web conference.\nYou can join this meeting from your computer, tablet, or smartphone.\nhttps://calendly.com/events/5b9d300f-60a1-409e-9134-bc32e4e355ac/google_meet\n\nNeed to make changes to this event?\nCancel: https://calendly.com/cancellations/804cf1c3-75e5-42fa-8d54-4ecf8e99a998\nReschedule: https://calendly.com/reschedulings/804cf1c3-75e5-42fa-8d54-4ecf8e99a998\n\nPowered by Calendly.com\n",
+   "location": "Google Meet (instructions in description)",
+   "creator": {
+    "email": "henrik.van-der-horst@comparastore.com"
+   },
+   "organizer": {
+    "email": "henrik.van-der-horst@comparastore.com"
+   },
+   "start": {
+    "dateTime": "2023-05-26T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-05-26T09:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "orr37dphjk8iesr8rnpu2gsqsc@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "henrik.van-der-horst@comparastore.com",
+     "organizer": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/cra-zntb-tck",
+   "conferenceData": {
+    "createRequest": {
+     "requestId": "13275ec5-775a-4956-956a-45c67ab5f4e8",
+     "conferenceSolutionKey": {
+      "type": "hangoutsMeet"
+     },
+     "status": {
+      "statusCode": "success"
+     }
+    },
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/cra-zntb-tck",
+      "label": "meet.google.com/cra-zntb-tck"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/cra-zntb-tck?pin=6392246610040",
+      "pin": "6392246610040"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-587-688-0909",
+      "label": "+1 587-688-0909",
+      "pin": "636001350"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "cra-zntb-tck"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3371625058220000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehr70crae5ijechmddkmoq1pc9nn0e1g6sq6cor4e4sj2e9n68o6ksj471n3ipjj6lkmidpi71p34r34ecrj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVocjcwY3JhZTVpamVjaG1kZGttb3ExcGM5bm4wZTFnNnNxNmNvcjRlNHNqMmU5bjY4bzZrc2o0NzFuM2lwamo2bGttaWRwaTcxcDM0cjM0ZWNyajAgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2023-06-03T10:07:14.000Z",
+   "updated": "2023-06-04T00:23:43.372Z",
+   "summary": "Flight to Toronto (AC 62)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMHOQcw3Pzoem7X-ihV6zSDxGy-ovJbpao\n",
+   "location": "Seoul ICN",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com"
+   },
+   "start": {
+    "dateTime": "2023-06-04T06:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-06-04T19:55:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tvp3jqe726kilh9bop8074fcdq919720jrd8n9fs5ii728r2lds70",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": false
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMHOQcw3Pzoem7X-ihV6zSDxGy-ovJbpao",
+    "title": ""
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373220809262000\"",
+   "id": "4cb6gv6lnp20iqr19n8utlipco",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGNiNmd2NmxucDIwaXFyMTluOHV0bGlwY28gZXN0cmVsbGFraW0wM0Bt",
+   "created": "2023-06-12T18:56:36.000Z",
+   "updated": "2023-06-12T22:53:24.631Z",
+   "summary": "VFC Market Research - Last Meeting",
+   "creator": {
+    "email": "nicolas.lengrand@comparastore.com"
+   },
+   "organizer": {
+    "email": "nicolas.lengrand@comparastore.com"
+   },
+   "start": {
+    "dateTime": "2023-06-15T12:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-06-15T13:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "4cb6gv6lnp20iqr19n8utlipco@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "layla.ahmed2636@gmail.com",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "ytq183@usask.ca",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "bansal.y15@gmail.com",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "nicolas.lengrand@comparastore.com",
+     "organizer": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "mabegallegos@hotmail.com",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "muhammadmun1234@gmail.com",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "henrik.van-der-horst@comparastore.com",
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/pxs-onaq-vub",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/pxs-onaq-vub",
+      "label": "meet.google.com/pxs-onaq-vub"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/pxs-onaq-vub?pin=7398926304332",
+      "pin": "7398926304332"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-587-794-8782",
+      "label": "+1 587-794-8782",
+      "pin": "999939838"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "pxs-onaq-vub"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373335292714000\"",
+   "id": "7lkelgkvu2rji3jrg6ru8pfjto",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2xrZWxna3Z1MnJqaTNqcmc2cnU4cGZqdG8gZXN0cmVsbGFraW0wM0Bt",
+   "created": "2023-06-12T21:55:26.000Z",
+   "updated": "2023-06-13T14:47:26.357Z",
+   "summary": "Muhammad Munir and Henrik Van Der Horst",
+   "description": "PLEASE MAKE SURE TO WATCH THIS VIDEO BEFORE THE MEETING : \u003ca href=\"https://www.youtube.com/watch?v=6i9moLyo4JQ\"\u003ehttps://www.youtube.com/watch?v=6i9moLyo4JQ\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eYou can join this meeting from your computer, tablet, or smartphone.\u003cbr\u003e\u003ca href=\"https://calendly.com/events/e1b8796e-1975-4d33-970c-47aeafbb570e/google_meet\"\u003ehttps://calendly.com/events/e1b8796e-1975-4d33-970c-47aeafbb570e/google_meet\u003c/a\u003e",
+   "location": "Google Meet (instructions in description)",
+   "creator": {
+    "email": "henrik.van-der-horst@comparastore.com"
+   },
+   "organizer": {
+    "email": "henrik.van-der-horst@comparastore.com"
+   },
+   "start": {
+    "dateTime": "2023-06-13T12:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-06-13T12:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "7lkelgkvu2rji3jrg6ru8pfjto@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "muhammadmun1234@gmail.com",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "henrik.van-der-horst@comparastore.com",
+     "organizer": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/tcw-xscf-fje",
+   "conferenceData": {
+    "createRequest": {
+     "requestId": "f1889410-5ec5-49eb-81a8-e4114267d504",
+     "conferenceSolutionKey": {
+      "type": "hangoutsMeet"
+     },
+     "status": {
+      "statusCode": "success"
+     }
+    },
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/tcw-xscf-fje",
+      "label": "meet.google.com/tcw-xscf-fje"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/tcw-xscf-fje?pin=7623970612136",
+      "pin": "7623970612136"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-604-774-8197",
+      "label": "+1 604-774-8197",
+      "pin": "613319894"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "tcw-xscf-fje"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3373537365644000\"",
+   "id": "69j6cohncgr68b9p6gp30b9k60pjgb9oc4r3ib9p75gjacb1cdij0dj5c8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjlqNmNvaG5jZ3I2OGI5cDZncDMwYjlrNjBwamdiOW9jNHIzaWI5cDc1Z2phY2IxY2RpajBkajVjOCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-06-14T18:51:22.000Z",
+   "updated": "2023-06-14T18:51:22.822Z",
+   "summary": "산이 중성화 9시",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-07-25T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-07-25T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "69j6cohncgr68b9p6gp30b9k60pjgb9oc4r3ib9p75gjacb1cdij0dj5c8@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3374542085296000\"",
+   "id": "74jefjlf49vnb6hkqkvk9kf19k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRqZWZqbGY0OXZuYjZoa3Frdms5a2YxOWtfMjAyMzA1MzBUMTQzMDAwWiBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-05-30T00:11:42.000Z",
+   "updated": "2023-06-20T14:24:02.648Z",
+   "summary": "Hanbyul (Estrella) Kim et Ange Blecon",
+   "description": "Nom d'événement : Réunion de 30 minutes\n\nSouhaitez-vous apporter des modifications à cet événement?\nAnnuler: https://calendly.com/cancellations/8e5ec458-b19a-4c78-98f9-ca7f1111c2ea\nReplanifier: https://calendly.com/reschedulings/8e5ec458-b19a-4c78-98f9-ca7f1111c2ea\n\nAlimenté par Calendly.com\n",
+   "creator": {
+    "email": "ange.blecon@comparastore.com"
+   },
+   "organizer": {
+    "email": "ange.blecon@comparastore.com"
+   },
+   "start": {
+    "dateTime": "2023-05-30T10:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-05-30T11:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20230620T035959Z;BYDAY=TU"
+   ],
+   "iCalUID": "74jefjlf49vnb6hkqkvk9kf19k@google.com",
+   "sequence": 1,
+   "attendees": [
+    {
+     "email": "ange.blecon@comparastore.com",
+     "organizer": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "needsAction"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/rds-cuxb-kta",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/rds-cuxb-kta",
+      "label": "meet.google.com/rds-cuxb-kta"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/rds-cuxb-kta?pin=5100751001748",
+      "pin": "5100751001748"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-587-688-8442",
+      "label": "+1 587-688-8442",
+      "pin": "176410650"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "rds-cuxb-kta"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3374542085296000\"",
+   "id": "74jefjlf49vnb6hkqkvk9kf19k_20230606T143000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzRqZWZqbGY0OXZuYjZoa3Frdms5a2YxOWtfMjAyMzA2MDZUMTQzMDAwWiBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-05-30T00:11:42.000Z",
+   "updated": "2023-06-20T14:24:02.648Z",
+   "summary": "Hanbyul (Estrella) Kim et Ange Blecon",
+   "description": "Nom d'événement : Réunion de 30 minutes\n\nSouhaitez-vous apporter des modifications à cet événement?\nAnnuler: https://calendly.com/cancellations/8e5ec458-b19a-4c78-98f9-ca7f1111c2ea\nReplanifier: https://calendly.com/reschedulings/8e5ec458-b19a-4c78-98f9-ca7f1111c2ea\n\nAlimenté par Calendly.com\n",
+   "creator": {
+    "email": "ange.blecon@comparastore.com"
+   },
+   "organizer": {
+    "email": "ange.blecon@comparastore.com"
+   },
+   "start": {
+    "dateTime": "2023-06-07T10:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-06-07T11:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "recurringEventId": "74jefjlf49vnb6hkqkvk9kf19k",
+   "originalStartTime": {
+    "dateTime": "2023-06-06T10:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "74jefjlf49vnb6hkqkvk9kf19k@google.com",
+   "sequence": 2,
+   "attendees": [
+    {
+     "email": "ange.blecon@comparastore.com",
+     "organizer": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/rds-cuxb-kta",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/rds-cuxb-kta",
+      "label": "meet.google.com/rds-cuxb-kta"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/rds-cuxb-kta?pin=5100751001748",
+      "pin": "5100751001748"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-587-688-8442",
+      "label": "+1 587-688-8442",
+      "pin": "176410650"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "rds-cuxb-kta"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3377308377430000\"",
+   "id": "c9im2dhl74q6abb4cphjcb9k70rj4b9oc4pj4bb26th3gcpk6cs3ip3570",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzlpbTJkaGw3NHE2YWJiNGNwaGpjYjlrNzByajRiOW9jNHBqNGJiMjZ0aDNnY3BrNmNzM2lwMzU3MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-07-06T14:36:28.000Z",
+   "updated": "2023-07-06T14:36:28.715Z",
+   "summary": "Clip studio",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-07-20T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-07-20T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c9im2dhl74q6abb4cphjcb9k70rj4b9oc4pj4bb26th3gcpk6cs3ip3570@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3380359255282000\"",
+   "id": "chgjccr474o64b9hc5i64b9k6pgm8b9pclj3eb9h6pi6achiccq3gd9g6k",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2hnamNjcjQ3NG82NGI5aGM1aTY0YjlrNnBnbThiOXBjbGozZWI5aDZwaTZhY2hpY2NxM2dkOWc2ayBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-07-24T06:20:27.000Z",
+   "updated": "2023-07-24T06:20:27.641Z",
+   "summary": "Name silo domain",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "date": "2024-07-20"
+   },
+   "end": {
+    "date": "2024-07-21"
+   },
+   "iCalUID": "chgjccr474o64b9hc5i64b9k6pgm8b9pclj3eb9h6pi6achiccq3gd9g6k@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 420
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3382884402230000\"",
+   "id": "6him4opk6ssj2bb569im6b9k6hj3ibb165gj8bb574p6ap1mcgp6cp9p6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmhpbTRvcGs2c3NqMmJiNTY5aW02YjlrNmhqM2liYjE2NWdqOGJiNTc0cDZhcDFtY2dwNmNwOXA2ZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-08-07T21:03:21.000Z",
+   "updated": "2023-08-07T21:03:21.115Z",
+   "summary": "Clip studio ends",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-08-05T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2024-08-05T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6him4opk6ssj2bb569im6b9k6hj3ibb165gj8bb574p6ap1mcgp6cp9p6g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3385147409350000\"",
+   "id": "cgsm6cj56lh32bb170oj2b9k65ij8b9ockpj2bb564sm4p1g6ss34dhn6g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2dzbTZjajU2bGgzMmJiMTcwb2oyYjlrNjVpajhiOW9ja3BqMmJiNTY0c200cDFnNnNzMzRkaG42ZyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-08-20T23:21:44.000Z",
+   "updated": "2023-08-20T23:21:44.675Z",
+   "summary": "8월 20일 여기까지 페이",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-07-23T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-07-23T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "cgsm6cj56lh32bb170oj2b9k65ij8b9ockpj2bb564sm4p1g6ss34dhn6g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3386314674234000\"",
+   "id": "60rm8ob360ojeb9ockq34b9k6lijebb1c4s3eb9j71h3adhhccpj6oj674",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjBybThvYjM2MG9qZWI5b2NrcTM0YjlrNmxpamViYjFjNHMzZWI5ajcxaDNhZGhoY2NwajZvajY3NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-08-27T17:28:57.000Z",
+   "updated": "2023-08-27T17:28:57.117Z",
+   "summary": "여기까지 7번",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-08-06T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-08-06T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "60rm8ob360ojeb9ockq34b9k6lijebb1c4s3eb9j71h3adhhccpj6oj674@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3384299714963000\"",
+   "id": "c8r36c9icop68b9j69ij8b9k68r3ab9pccomab9jccp62dhn70q3ee1l60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzhyMzZjOWljb3A2OGI5ajY5aWo4YjlrNjhyM2FiOXBjY29tYWI5amNjcDYyZGhuNzBxM2VlMWw2MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-08-03T15:22:19.000Z",
+   "updated": "2023-08-28T11:52:55.563Z",
+   "summary": "오후 6시 치과",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-08-28T18:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-08-28T19:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c8r36c9icop68b9j69ij8b9k68r3ab9pccomab9jccp62dhn70q3ee1l60@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3386535068200000\"",
+   "id": "cdh68c9l6kpmcb9k6ssj8b9k70rm2bb269gm8b9ocoo3ie1p64sm4p9p6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2RoNjhjOWw2a3BtY2I5azZzc2o4YjlrNzBybTJiYjI2OWdtOGI5b2NvbzNpZTFwNjRzbTRwOXA2YyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-08-29T00:05:34.000Z",
+   "updated": "2023-08-29T00:05:34.100Z",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-09-19T17:15:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-09-19T18:15:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "cdh68c9l6kpmcb9k6ssj8b9k70rm2bb269gm8b9ocoo3ie1p64sm4p9p6c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3388282394294000\"",
+   "id": "4tqjklskk9pu0qkt26s02ahc2c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NHRxamtsc2trOXB1MHFrdDI2czAyYWhjMmMgZXN0cmVsbGFraW0wM0Bt",
+   "created": "2023-09-06T14:19:07.000Z",
+   "updated": "2023-09-08T02:46:37.147Z",
+   "summary": "Project Kick-Off | Intrapreneurship Program",
+   "creator": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "organizer": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "start": {
+    "dateTime": "2023-09-08T14:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-09-08T15:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "4tqjklskk9pu0qkt26s02ahc2c@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "glen@blueeclipse.ca",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "sukhi10@my.yorku.ca",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "isc04@yahoo.com",
+     "responseStatus": "tentative"
+    },
+    {
+     "email": "harmana1@my.yorku.ca",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "vongole.e.cristalli@gmail.com",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "patrick@blueeclipse.ca",
+     "organizer": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "cheema.iman2@gmail.com",
+     "responseStatus": "needsAction"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/aaz-idvg-cqy",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/aaz-idvg-cqy",
+      "label": "meet.google.com/aaz-idvg-cqy"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/aaz-idvg-cqy?pin=2737323861456",
+      "pin": "2737323861456"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-226-315-4545",
+      "label": "+1 226-315-4545",
+      "pin": "221504755"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "aaz-idvg-cqy"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3390343214174000\"",
+   "id": "ccq36d9gcphj8b9k6gqj6b9k6opm6bb1cos30b9h6sq6adj16cs38o9h60",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y2NxMzZkOWdjcGhqOGI5azZncWo2YjlrNm9wbTZiYjFjb3MzMGI5aDZzcTZhZGoxNmNzMzhvOWg2MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-09-20T01:00:07.000Z",
+   "updated": "2023-09-20T01:00:07.087Z",
+   "summary": "6시 치과",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-10-02T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-10-02T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "ccq36d9gcphj8b9k6gqj6b9k6opm6bb1cos30b9h6sq6adj16cs38o9h60@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3391306255674000\"",
+   "id": "71j64opm71hmcbb661j66b9kcoo30bb1ccsm6b9p75h3aoj5cdi66db4ck",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFqNjRvcG03MWhtY2JiNjYxajY2YjlrY29vMzBiYjFjY3NtNmI5cDc1aDNhb2o1Y2RpNjZkYjRjayBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-09-25T14:45:27.000Z",
+   "updated": "2023-09-25T14:45:27.837Z",
+   "summary": "아빠 수술",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-10-06T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-10-06T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "71j64opm71hmcbb661j66b9kcoo30bb1ccsm6b9p75h3aoj5cdi66db4ck@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3391306257332000\"",
+   "id": "64q38dpn60o3ab9h61hjib9k6hh3abb1c8rmabb56hij2pj66kq30cpn6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRxMzhkcG42MG8zYWI5aDYxaGppYjlrNmhoM2FiYjFjOHJtYWJiNTZoaWoycGo2NmtxMzBjcG42byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-09-25T14:45:28.000Z",
+   "updated": "2023-09-25T14:45:28.666Z",
+   "summary": "7:50",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-11-01T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-11-01T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "64q38dpn60o3ab9h61hjib9k6hh3abb1c8rmabb56hij2pj66kq30cpn6o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3394446421542000\"",
+   "id": "3nomf2lkt5ufs0f846m5cdt7je",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M25vbWYybGt0NXVmczBmODQ2bTVjZHQ3amVfMjAyMzA5MTVUMTgwMDAwWiBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-09-11T18:02:54.000Z",
+   "updated": "2023-10-13T18:53:30.771Z",
+   "summary": "Website Fuel Template Building Review",
+   "creator": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "organizer": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "start": {
+    "dateTime": "2023-09-15T14:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-09-15T14:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "recurrence": [
+    "RRULE:FREQ=WEEKLY;WKST=SU;COUNT=6;BYDAY=FR"
+   ],
+   "iCalUID": "3nomf2lkt5ufs0f846m5cdt7je@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "glen@blueeclipse.ca",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "sukhi10@my.yorku.ca",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "isc04@yahoo.com",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "patrick@blueeclipse.ca",
+     "organizer": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/fvx-uqzu-kcs",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/fvx-uqzu-kcs",
+      "label": "meet.google.com/fvx-uqzu-kcs"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/fvx-uqzu-kcs?pin=2768273079495",
+      "pin": "2768273079495"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-587-978-5270",
+      "label": "+1 587-978-5270",
+      "pin": "641370758"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "fvx-uqzu-kcs"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3394446421542000\"",
+   "id": "3nomf2lkt5ufs0f846m5cdt7je_20230922T180000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M25vbWYybGt0NXVmczBmODQ2bTVjZHQ3amVfMjAyMzA5MjJUMTgwMDAwWiBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-09-11T18:02:54.000Z",
+   "updated": "2023-10-13T18:53:30.771Z",
+   "summary": "Website Fuel Template Building Review",
+   "creator": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "organizer": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "start": {
+    "dateTime": "2023-09-22T13:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-09-22T13:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "recurringEventId": "3nomf2lkt5ufs0f846m5cdt7je",
+   "originalStartTime": {
+    "dateTime": "2023-09-22T14:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "3nomf2lkt5ufs0f846m5cdt7je@google.com",
+   "sequence": 1,
+   "attendees": [
+    {
+     "email": "glen@blueeclipse.ca",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "sukhi10@my.yorku.ca",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "isc04@yahoo.com",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "patrick@blueeclipse.ca",
+     "organizer": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/fvx-uqzu-kcs",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/fvx-uqzu-kcs",
+      "label": "meet.google.com/fvx-uqzu-kcs"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/fvx-uqzu-kcs?pin=2768273079495",
+      "pin": "2768273079495"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-587-978-5270",
+      "label": "+1 587-978-5270",
+      "pin": "641370758"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "fvx-uqzu-kcs"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3394446421542000\"",
+   "id": "3nomf2lkt5ufs0f846m5cdt7je_20231013T180000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M25vbWYybGt0NXVmczBmODQ2bTVjZHQ3amVfMjAyMzEwMTNUMTgwMDAwWiBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-09-11T18:02:54.000Z",
+   "updated": "2023-10-13T18:53:30.771Z",
+   "summary": "Website Fuel Template Building Review",
+   "creator": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "organizer": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "start": {
+    "dateTime": "2023-10-13T14:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-10-13T15:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "recurringEventId": "3nomf2lkt5ufs0f846m5cdt7je",
+   "originalStartTime": {
+    "dateTime": "2023-10-13T14:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "3nomf2lkt5ufs0f846m5cdt7je@google.com",
+   "sequence": 1,
+   "attendees": [
+    {
+     "email": "glen@blueeclipse.ca",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "sukhi10@my.yorku.ca",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "isc04@yahoo.com",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "patrick@blueeclipse.ca",
+     "organizer": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/fvx-uqzu-kcs",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/fvx-uqzu-kcs",
+      "label": "meet.google.com/fvx-uqzu-kcs"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/fvx-uqzu-kcs?pin=2768273079495",
+      "pin": "2768273079495"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-587-978-5270",
+      "label": "+1 587-978-5270",
+      "pin": "641370758"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "fvx-uqzu-kcs"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3394446421542000\"",
+   "id": "3nomf2lkt5ufs0f846m5cdt7je_20231020T180000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M25vbWYybGt0NXVmczBmODQ2bTVjZHQ3amVfMjAyMzEwMjBUMTgwMDAwWiBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-09-11T18:02:54.000Z",
+   "updated": "2023-10-13T18:53:30.771Z",
+   "summary": "Website Fuel Template Building Review",
+   "creator": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "organizer": {
+    "email": "patrick@blueeclipse.ca"
+   },
+   "start": {
+    "dateTime": "2023-10-20T14:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-10-20T14:30:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "recurringEventId": "3nomf2lkt5ufs0f846m5cdt7je",
+   "originalStartTime": {
+    "dateTime": "2023-10-20T14:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "3nomf2lkt5ufs0f846m5cdt7je@google.com",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "glen@blueeclipse.ca",
+     "responseStatus": "declined"
+    },
+    {
+     "email": "sukhi10@my.yorku.ca",
+     "responseStatus": "needsAction"
+    },
+    {
+     "email": "isc04@yahoo.com",
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    },
+    {
+     "email": "patrick@blueeclipse.ca",
+     "organizer": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "hangoutLink": "https://meet.google.com/fvx-uqzu-kcs",
+   "conferenceData": {
+    "entryPoints": [
+     {
+      "entryPointType": "video",
+      "uri": "https://meet.google.com/fvx-uqzu-kcs",
+      "label": "meet.google.com/fvx-uqzu-kcs"
+     },
+     {
+      "entryPointType": "more",
+      "uri": "https://tel.meet/fvx-uqzu-kcs?pin=2768273079495",
+      "pin": "2768273079495"
+     },
+     {
+      "regionCode": "CA",
+      "entryPointType": "phone",
+      "uri": "tel:+1-587-978-5270",
+      "label": "+1 587-978-5270",
+      "pin": "641370758"
+     }
+    ],
+    "conferenceSolution": {
+     "key": {
+      "type": "hangoutsMeet"
+     },
+     "name": "Google Meet",
+     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+    },
+    "conferenceId": "fvx-uqzu-kcs"
+   },
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3397745407614000\"",
+   "id": "64r6cchkcpi3ib9k6dhjeb9kcorj0bb168ojcbb564sjie1g6ss3ep9k6c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjRyNmNjaGtjcGkzaWI5azZkaGplYjlrY29yajBiYjE2OG9qY2JiNTY0c2ppZTFnNnNzM2VwOWs2YyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-11-01T21:05:03.000Z",
+   "updated": "2023-11-01T21:05:03.807Z",
+   "summary": "7시간 반",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-10-29T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-10-29T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "64r6cchkcpi3ib9k6dhjeb9kcorj0bb168ojcbb564sjie1g6ss3ep9k6c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3397745409294000\"",
+   "id": "c9hm6ob175i3gb9ncoq38b9kckr32bb175j3gb9p6sqjedpm6ss3ae9i70",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YzlobTZvYjE3NWkzZ2I5bmNvcTM4YjlrY2tyMzJiYjE3NWozZ2I5cDZzcWplZHBtNnNzM2FlOWk3MCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-11-01T21:05:04.000Z",
+   "updated": "2023-11-01T21:05:04.647Z",
+   "summary": "4시간\n",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-10-25T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-10-25T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "c9hm6ob175i3gb9ncoq38b9kckr32bb175j3gb9p6sqjedpm6ss3ae9i70@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3397745410478000\"",
+   "id": "6gsj4e9p6gsj2bb6c8oj8b9k68om6bb26op3ebb26csm6c9jcko3ee1kcc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmdzajRlOXA2Z3NqMmJiNmM4b2o4YjlrNjhvbTZiYjI2b3AzZWJiMjZjc202YzlqY2tvM2VlMWtjYyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-11-01T21:05:05.000Z",
+   "updated": "2023-11-01T21:05:05.239Z",
+   "summary": "7시간 반",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-10-22T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-10-22T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6gsj4e9p6gsj2bb6c8oj8b9k68om6bb26op3ebb26csm6c9jcko3ee1kcc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3397745411620000\"",
+   "id": "6gq6cchgcgs30b9icgo66b9kccqm2bb1c9hj0bb4ccp68eb26gqjicj474",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmdxNmNjaGdjZ3MzMGI5aWNnbzY2YjlrY2NxbTJiYjFjOWhqMGJiNGNjcDY4ZWIyNmdxamljajQ3NCBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-11-01T21:05:05.000Z",
+   "updated": "2023-11-01T21:05:05.810Z",
+   "summary": "4시간",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-10-18T08:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-10-18T09:00:00-04:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6gq6cchgcgs30b9icgo66b9kccqm2bb1c9hj0bb4ccp68eb26gqjicj474@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3400336179676000\"",
+   "id": "6pi62dpnchh66bb5c4oj2b9kckr34bb175j66b9k6cq30d32cos64e9g6o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnBpNjJkcG5jaGg2NmJiNWM0b2oyYjlrY2tyMzRiYjE3NWo2NmI5azZjcTMwZDMyY29zNjRlOWc2byBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-11-16T20:54:49.000Z",
+   "updated": "2023-11-16T20:54:49.838Z",
+   "summary": "4시 전화",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2023-11-24T16:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2023-11-24T17:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "6pi62dpnchh66bb5c4oj2b9kckr34bb175j66b9k6cq30d32cos64e9g6o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3403473409080000\"",
+   "id": "_cdgmopbechm7ib9o6krjgd1k6oqj6",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=X2NkZ21vcGJlY2htN2liOW82a3JqZ2QxazZvcWo2IGVzdHJlbGxha2ltMDNAbQ",
+   "created": "2023-11-29T17:56:57.000Z",
+   "updated": "2023-12-05T00:38:24.540Z",
+   "summary": "63621 research resource developer Interview with Ellie VanBerkel",
+   "description": "Event Name: 63621 research resource developer Interview\nDate & Time: 11:00am - 11:30am (Eastern Time - US & Canada) on Tuesday, December 5, 2023\nLocation: https://yorku.zoom.us/my/e4673112011\n\nNeed to make changes to this event?\nCancel: https://calendly.com/cancellations/19adf388-6db3-4224-b383-351d540304a4\nReschedule: https://calendly.com/reschedulings/19adf388-6db3-4224-b383-351d540304a4\n",
+   "location": "https://yorku.zoom.us/my/e4673112011",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "noreply@calendly.com",
+    "displayName": "Ellie VanBerkel"
+   },
+   "start": {
+    "dateTime": "2023-12-05T11:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2023-12-05T11:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "iCalUID": "calendly-857844653",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "estrellakim03@gmail.com",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3406990580726000\"",
+   "id": "68pjae3561hjcbb460qjab9k6srm2b9pc5gj6b9oc5gj6d1kc5ij2cj2cc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjhwamFlMzU2MWhqY2JiNDYwcWphYjlrNnNybTJiOXBjNWdqNmI5b2M1Z2o2ZDFrYzVpajJjajJjYyBlc3RyZWxsYWtpbTAzQG0",
+   "created": "2023-12-25T09:08:10.000Z",
+   "updated": "2023-12-25T09:08:10.363Z",
+   "summary": "Xbox game pass",
+   "creator": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "organizer": {
+    "email": "estrellakim03@gmail.com",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-01-23T08:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "end": {
+    "dateTime": "2024-01-23T09:00:00-05:00",
+    "timeZone": "America/Toronto"
+   },
+   "iCalUID": "68pjae3561hjcbb460qjab9k6srm2b9pc5gj6b9oc5gj6d1kc5ij2cj2cc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   },
+   "eventType": "default"
+  }
+ ]
