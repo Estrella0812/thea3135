@@ -37,7 +37,7 @@ function Work(){
                 Similarity: the tickets have a similar shape making it seen as a group while the text at the top are written in the same font making them another group. This allows the viewers to separate and differentiate the components.<br></br>
                 </p>
                 <p>Overall, the graphic diagram convinces the audience to buy the tickets  and join them in their live streaming concert while being comfortable at home.
-    </p>
+                </p>
             </section>
             <button className="work-button" onClick={setModuleCat}>back</button>
         </div>
