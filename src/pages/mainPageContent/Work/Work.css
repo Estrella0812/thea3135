@@ -1,4 +1,5 @@
 .work-container{
+    width: 100%;
 }
 
 .work-button{
@@ -7,17 +8,17 @@
 }
 
 .module-img{
-    width: 100%;
-    max-width: 500px;
+    width: 500px;
 }
 @media only screen and (max-width: 600px) {
-    .module-img, .work-container{
+    .module-img{
         width: 350px;
     }
   }
 
 .work-container a{
     color: #B6BBC4;
+    display: block;
 }
 
 .work-written-section{
