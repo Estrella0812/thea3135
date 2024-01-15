@@ -21,13 +21,14 @@ function Work(){
             <img className="module-img" src={module12IMG}/>
             <a href="https://twitter.com/bts_bighit/status/1664648069441286149" target="_blank">https://twitter.com/bts_bighit/status/1664648069441286149</a>
             <section className="work-written-section">
-                <p className="work-subheader">Elements:</p>
-                <p>HEOOJEW:ORWJE:RKJEWR:LKEJR:EKRJ:EJNER:Ojlfsjg;rjg;rjg;osjgroijrgoij
-                    l;krgj;sgj;slkgj
-                    s;lkrgj;lsrkgj;srogij;orsijs;oiijoegrgroigrnsrns;gn
+                <p className="work-subheader">Elements</p>
+                <p>
+                    Typography: use of font for “BangBangCon” as the title. The font is round with an outline. It convinces the audience to read the title first.</br>
+                    Color: Overall, the design uses a soft pastel tone colour. This gives a cosy mood to the image giving the audience a comfortable feeling.</br>
+                    Image: used inside the ticket figure. It represents the theme/mood of each concert</br>
                 </p>
-                <p className="work-subheader">Elements:</p>
-                <p className="work-subheader">Elements:</p>
+                <p className="work-subheader">Relationship</p>
+                <p className="work-subheader">Gestalt</p>
             </section>
             <button className="work-button" onClick={setModuleCat}>back</button>
         </div>
