@@ -19,15 +19,25 @@ function Work(){
     const moduleWork = [
         <div className="work-container">
             <img className="module-img" src={module12IMG}/>
-            <a href="https://twitter.com/bts_bighit/status/1664648069441286149" target="_blank">https://twitter.com/bts_bighit/status/1664648069441286149</a>
+            <a href="https://twitter.com/bts_bighit/status/1664648069441286149" target="_blank">original image by BTS_official</a>
             <section className="work-written-section">
-                <p className="work-subheader">Elements:</p>
-                <p>HEOOJEW:ORWJE:RKJEWR:LKEJR:EKRJ:EJNER:Ojlfsjg;rjg;rjg;osjgroijrgoij
-                    l;krgj;sgj;slkgj
-                    s;lkrgj;lsrkgj;srogij;orsijs;oiijoegrgroigrnsrns;gn
+                <p className="work-subheader">Elements</p>
+                <p>
+                Typography: use of font for “BangBangCon” as the title. The font is round with an outline. It convinces the audience to read the title first.<br></br>
+                Color: Overall, the design uses a soft pastel tone colour. This gives a cosy mood to the image giving the audience a comfortable feeling.<br></br>
+                Image: used inside the ticket figure. It represents the theme/mood of each concert<br></br>
                 </p>
-                <p className="work-subheader">Elements:</p>
-                <p className="work-subheader">Elements:</p>
+                <p className="work-subheader">Relationship</p>
+                <p>
+                Emphasis: the tickets are emphasised with its popping out colour and images. It convinces the audience to look and read what it says in the ticket.<br></br>
+                Balance: the main components are distributed to the center of the screen with the name of the team members at the top. This organised distribution of elements allows the viewer to easily recognize the different components.<br></br>
+                </p>
+                <p className="work-subheader">Gestalt</p>
+                <p>
+                Similarity: the tickets have a similar shape making it seen as a group while the text at the top are written in the same font making them another group. This allows the viewers to separate and differentiate the components.<br></br>
+                </p>
+                <p>Overall, the graphic diagram convinces the audience to buy the tickets  and join them in their live streaming concert while being comfortable at home.
+    </p>
             </section>
             <button className="work-button" onClick={setModuleCat}>back</button>
         </div>
