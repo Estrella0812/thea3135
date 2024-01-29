@@ -139,8 +139,7 @@ function Work(){
             {module.length==0 ?
             <div className="Work-button-container">
             <button className="work-button" onClick={setModuleCat}>Module 12</button>
-            <button className="work-button" onClick={setModuleCat}>Module 13</button>
-            <button className="work-button">Module 14 <Lock></Lock></button>
+            <button className="work-button" onClick={setModuleCat}>Module 14</button>
             <button className="work-button">Module 15 <Lock></Lock></button>
             <button className="work-button">Module 16 <Lock></Lock></button>
             <button className="work-button">Module 17 <Lock></Lock></button>
