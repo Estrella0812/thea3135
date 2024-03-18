@@ -157,6 +157,52 @@ function Work(){
                     <button className="work-button" onClick={setModuleCat}>back</button>
                 </div>
             ])
+        }if(e.target.innerText==="Module 19"){
+            setModule([
+                <div className="work-container">
+                <iframe src="https://www.youtube.com/embed/tShavGuo0_E" style={{minWidth: "900px", minHeight: "500px", marginTop: "10vh"}}></iframe>
+                <section className="work-written-section">
+                <div className="textSection">
+                    <p className="work-subheader">Content</p>
+                    <p>
+                    The presentation is about fear of public speaking and how one should gain confidence. It is done effectively as she goes 
+                    straight to the point while grabbing the viewer’s attention by providing a relatable situation. The presentation teaches 
+                    (gives advice) on how to not be freaked out when one encounters a situation of having to speak in public.<br></br>
+                    </p>
+                    <p className="work-subheader">Timing/Pacing</p>
+                    <p>
+                    The speaker does maintain a rhythm and structure throughout the presentation, especially when making an important point. 
+                    She changes her tone and loudness to emphasise the importance of certain information. This supports the delivery of the content 
+                    as it grabs the attention on the important parts. She also pauses a bit when moving on to the next topic allowing the 
+                    audience to recap and remember what she said before. Hence, the presentation is not rushed; yet, it is not slowed to bore 
+                    the audience.</p>
+                    <p className="work-subheader">Style</p>
+                    <p>
+                    I think the style of the presentation is semi-formal or casual. It is light-heated for sure as her tone goes up and down, 
+                    being loud at times. The presentation is done with graphical drawings while adding some text on important points she wishes 
+                    to catch the attention. This allows the audience to better understand as it adds visualisation to the information she is 
+                    trying to explain.<br></br>
+                    </p>
+                    <p className="work-subheader">Visuals</p>
+                    <p>
+                    Visuals are easy to read as the presentation is not overloaded with images and text. She uses bare text which allows
+                    the audience to catch on to the key points. All of her animation-like images are carefully chosen as it goes along with 
+                    the things she is saying. These visuals effectively support the content as it is used in the right timing with the right 
+                    content.<br></br>
+                    </p>
+                    <p className="work-subheader">Technical</p>
+                    <p>
+                    The presentation was greatly done. The images that work like stop motion to give an animated feeling, brief text added 
+                    to give the audience key points, and clean audio improves the quality of the video and make it professional. The video 
+                    is not too long to bore the audience but not too short to be lacking information. The style of the presentation, and the 
+                    graphics, was consistent throughout the entire video without any issues. The presentation support for any devices such as
+                    computer, phone, and tablet and would remain consistent and legible.<br></br>
+                    </p>
+                    </div>
+                </section>
+                <button className="work-button" onClick={setModuleCat}>back</button>
+                </div>
+            ]);
         }
         if(e.target.innerText==="back"){
             setModule(workButtons);
@@ -171,8 +217,7 @@ function Work(){
             <button className="work-button" onClick={setModuleCat}>Module 15</button>
             <button className="work-button" onClick={setModuleCat}>Module 16</button>
             <button className="work-button" onClick={setModuleCat}>Module 17</button>
-            <button className="work-button">Module 19 <Lock></Lock></button>
-            <button className="work-button">Module 20 <Lock></Lock></button>
+            <button className="work-button" onClick={setModuleCat}>Module 19</button>
         </div>
     ]
 
@@ -188,8 +233,7 @@ function Work(){
             <button className="work-button" onClick={setModuleCat}>Module 15</button>
             <button className="work-button" onClick={setModuleCat}>Module 16</button>
             <button className="work-button" onClick={setModuleCat}>Module 17</button>
-            <button className="work-button">Module 19 <Lock></Lock></button>
-            <button className="work-button">Module 20 <Lock></Lock></button>
+            <button className="work-button" onClick={setModuleCat}>Module 19</button>
             </div>
             : module
             }
