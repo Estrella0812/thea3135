@@ -1,4 +1,4 @@
-import {Lock, Download, Link} from 'react-bootstrap-icons'
+import {Lock, Download, Link, FiletypePdf} from 'react-bootstrap-icons'
 import { useEffect, useState } from "react"
 import './Work.css'
 
@@ -144,10 +144,10 @@ function Work(){
         if(e.target.innerText==="Program Project"){
             setModule([
                 <div className="work-container">
-                    <div className="work-cont-container" style={{minHeight: "70vh", marginTop: "20vh"}}>
+                    <div className="work-cont-container" style={{minHeight: "60vh", marginTop: "5vh"}}>
                         <h2 className="resume-header">Program Project pdf</h2>
                         <section className="work-written-section">
-                            <a className="resume-download d-flex" href="Program Project.pdf" download="Program Project.pdf" style={{minWidth: "180px", marginTop: "30px", marginBottom: "13vh"}}><Download></Download><p>download</p></a>
+                            <a className="resume-download d-flex" href={process.env.PUBLIC_URL + "/Program Project.pdf"} target="_blank" style={{minWidth: "180px", marginTop: "30px", marginBottom: "10vh"}}><FiletypePdf></FiletypePdf><p>Open</p></a>
                         </section>
                         <h2 className="resume-header">Link</h2>
                         <section className="work-written-section">
@@ -225,7 +225,7 @@ function Work(){
     console.log(module.length);
     return(
         <>
-            {module.length==0 ?
+            {module.length===0 ?
             <div className="Work-button-container">
             <button className="work-button" onClick={setModuleCat}>Program Project</button>
             <button className="work-button" onClick={setModuleCat}>Module 12</button>
