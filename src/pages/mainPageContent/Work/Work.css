@@ -45,3 +45,15 @@
 .imageHeader{
     color: #F0ECE5;
 }
+
+/* PROGRAM PROJECT download button */
+.resume-download{
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    color: #F0ECE5;
+    text-decoration: none;
+    background-color: #31304D;
+    padding: 2vh 2vw;
+    border-radius: 6px;
+}
