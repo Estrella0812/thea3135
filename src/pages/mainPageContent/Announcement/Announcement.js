@@ -10,7 +10,7 @@ function Announcement(){
 
 
     const announcement = [
-        <h5 className="announcement" style={{width:`calc(100vw - ${scrollbarWidth}px)`}}>This is only a BETA version of the website.<X size={30} className="close-icon" onClick={() => setClose(!close)}></X></h5>
+        <h5 className="announcement" style={{width:`calc(100vw - ${scrollbarWidth}px)`}}>Scroll down to view more!<X size={30} className="close-icon" onClick={() => setClose(!close)}></X></h5>
     ]
 
     return(
