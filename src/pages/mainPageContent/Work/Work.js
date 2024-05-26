@@ -203,6 +203,18 @@ function Work(){
                 <button className="work-button" onClick={setModuleCat}>back</button>
                 </div>
             ]);
+        }if(e.target.innerText==="Presentation"){
+            setModule([
+                <div className="work-container">
+                    <iframe width="980" height="700" src="https://www.youtube.com/embed/uizSCbS7XLQ" allowfullscreen></iframe>
+                    <a href="https://www.youtube.com/watch?v=uizSCbS7XLQ" target="_blank"> YOUTUBE LINK </a>
+                    <div className="resume-container" style={{display: "flex", flexDirection:"column", alignItems:"center", padding: "10vh 0 "}}>
+                        <h2 className="resume-header">Google Slide</h2>
+                        <a className="resume-download d-flex" href="THEA presentation.pptx" download="THEA presentation.pptx" style={{width: "50%"}}><Download></Download><p>download</p></a>
+                    </div>
+                <button className="work-button" onClick={setModuleCat}>back</button>
+                </div>
+            ]);
         }
         if(e.target.innerText==="back"){
             setModule(workButtons);
@@ -218,6 +230,7 @@ function Work(){
             <button className="work-button" onClick={setModuleCat}>Module 16</button>
             <button className="work-button" onClick={setModuleCat}>Module 17</button>
             <button className="work-button" onClick={setModuleCat}>Module 19</button>
+            <button className="work-button" onClick={setModuleCat}>Presentation</button>
         </div>
     ]
 
@@ -234,6 +247,7 @@ function Work(){
             <button className="work-button" onClick={setModuleCat}>Module 16</button>
             <button className="work-button" onClick={setModuleCat}>Module 17</button>
             <button className="work-button" onClick={setModuleCat}>Module 19</button>
+            <button className="work-button" onClick={setModuleCat}>Presentation</button>
             </div>
             : module
             }
