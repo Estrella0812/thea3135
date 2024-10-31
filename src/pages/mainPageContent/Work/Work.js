@@ -223,14 +223,14 @@ function Work(){
 
     const workButtons = [
         <div className="Work-button-container">
-            <button className="work-button" onClick={setModuleCat}>Program Project</button>
+            {/* <button className="work-button" onClick={setModuleCat}>Program Project</button> */}
             <button className="work-button" onClick={setModuleCat}>Module 12</button>
             <button className="work-button" onClick={setModuleCat}>Module 14 </button>
             <button className="work-button" onClick={setModuleCat}>Module 15</button>
             <button className="work-button" onClick={setModuleCat}>Module 16</button>
             <button className="work-button" onClick={setModuleCat}>Module 17</button>
             <button className="work-button" onClick={setModuleCat}>Module 19</button>
-            <button className="work-button" onClick={setModuleCat}>Presentation</button>
+            {/* <button className="work-button" onClick={setModuleCat}>Presentation</button> */}
         </div>
     ]
 
@@ -240,14 +240,14 @@ function Work(){
         <>
             {module.length===0 ?
             <div className="Work-button-container">
-            <button className="work-button" onClick={setModuleCat}>Program Project</button>
+            {/* <button className="work-button" onClick={setModuleCat}>Program Project</button> */}
             <button className="work-button" onClick={setModuleCat}>Module 12</button>
             <button className="work-button" onClick={setModuleCat}>Module 14</button>
             <button className="work-button" onClick={setModuleCat}>Module 15</button>
             <button className="work-button" onClick={setModuleCat}>Module 16</button>
             <button className="work-button" onClick={setModuleCat}>Module 17</button>
             <button className="work-button" onClick={setModuleCat}>Module 19</button>
-            <button className="work-button" onClick={setModuleCat}>Presentation</button>
+            {/* <button className="work-button" onClick={setModuleCat}>Presentation</button> */}
             </div>
             : module
             }

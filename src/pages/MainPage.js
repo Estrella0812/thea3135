@@ -15,7 +15,7 @@ import './MainPage.css'
 const homePage = [
     <>
         <div className="container d-flex justify-content-center" style={{marginBottom: "10%"}}><CalendarSection></CalendarSection></div>
-        <div className="container d-flex justify-content-center" style={{marginBottom: "10%"}}><Resume></Resume></div>
+        {/* <div className="container d-flex justify-content-center" style={{marginBottom: "10%"}}><Resume></Resume></div> */}
         <div className="container d-flex justify-content-center"><GmailForm></GmailForm></div>
     </>
 ]
